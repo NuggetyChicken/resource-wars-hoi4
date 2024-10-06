@@ -1,0 +1,32 @@
+
+state={
+	id=513
+	name="STATE_513"
+
+	history={
+		owner = RAD
+		add_core_of = ALG
+		victory_points = {
+			1967 1 
+		}
+		victory_points = {
+			10731 1 
+		}
+		victory_points = {
+			12018 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1126 1967 2049 9960 10731 12018 12842 13074 
+	}
+	manpower=691480
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

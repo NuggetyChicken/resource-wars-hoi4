@@ -1,0 +1,35 @@
+
+state={
+	id=834
+	name="STATE_834"
+
+	history={
+		owner = SOV
+		victory_points = {
+			13393 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		add_core_of = MOL
+		2900.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		9576 13393 13395 13397 
+	}
+	manpower=183748
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=6.000
+}

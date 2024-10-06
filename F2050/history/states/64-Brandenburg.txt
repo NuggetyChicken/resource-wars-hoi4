@@ -1,0 +1,36 @@
+
+state={
+	id=64
+	name="STATE_64"
+
+	history={
+		owner = GER
+		victory_points = {
+			6521 50 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			anti_air_building = 2
+			air_base = 1
+
+		}
+		add_core_of = GER
+		2900.1.1 = {
+			buildings = {
+				anti_air_building = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		6521 
+	}
+	manpower=613000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

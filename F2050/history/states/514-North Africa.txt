@@ -1,0 +1,25 @@
+
+state={
+	id=514
+	name="STATE_514"
+
+	impassable = yes
+
+	history={
+		owner = RAD
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1043 1901 5095 7041 12849 
+	}
+	manpower=207733
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

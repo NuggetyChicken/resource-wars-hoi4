@@ -1,0 +1,23 @@
+
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = CAN
+		add_core_of = CAN
+		add_core_of = QUE
+		victory_points = {
+			11902 1
+		}
+
+	}
+
+	provinces={
+		1764 3911 7875 10249 11682 11902 12205 12276 13480 13481 13482 13488 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}
