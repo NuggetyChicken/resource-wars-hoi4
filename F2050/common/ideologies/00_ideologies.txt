@@ -202,18 +202,24 @@ communism = { #anti-Revisonism
 
 		types = {
 
-			conservatism = {
+			techno_liberalism = { #Techo-Liberalism
 			}
 
-			liberalism = {
+			neo_liberal = { #Neo-Liberalism
 			}
 
-			socialism = {
+			progressive = { #Progressivism
 			}
 
-			populism = {
+			nat_liberal = { #National Liberalism
 			}
-		}
+			
+			federalism = { #Federalism
+			}
+			
+			third_way = { #Third Way
+			}
+ 		}
 
 		dynamic_faction_names = {
 			"FACTION_NAME_DEMOCRATIC_1"
