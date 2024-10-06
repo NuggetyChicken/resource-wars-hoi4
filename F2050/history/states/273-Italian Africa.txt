@@ -1,0 +1,23 @@
+
+state={
+	id=273
+	name="STATE_273"
+
+	history={
+		owner = RAD
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = LBA
+
+	}
+
+	provinces={
+		1994 4191 5004 10749 10884 12022 12082 
+	}
+	manpower=42633
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

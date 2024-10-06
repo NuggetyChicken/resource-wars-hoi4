@@ -1,0 +1,42 @@
+
+state={
+	id=474
+	name="STATE_474"
+
+	history={
+		owner = MEX
+		add_core_of = MEX
+		add_core_of = YUC
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			4904 = {
+				naval_base = 2
+
+			}
+			12715 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			4904 1 
+		}
+		victory_points = {
+			12715 5
+		}
+		victory_points = {
+			13476 1 
+		}
+
+	}
+
+	provinces={
+		4904 4965 12715 13476 
+	}
+	manpower=440289
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
