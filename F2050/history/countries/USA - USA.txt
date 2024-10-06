@@ -179,7 +179,7 @@ set_convoys = 700
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "2048.11.8"
+	last_election = "2052.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -190,6 +190,8 @@ set_popularities = {
 
 add_ideas = {
 	incoming_crisis
+	usa_corrupt_democracy
+	usa_inflation_1
 	disarmed_nation
 	free_trade
 }
