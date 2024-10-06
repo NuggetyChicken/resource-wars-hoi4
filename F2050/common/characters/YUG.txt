@@ -59,7 +59,7 @@ characters={
 		}
 	}
 	YUG_josip_broz_tito={
-		name=YUG_josip_broz_tito
+		name="Predimir Darković"
 		advisor={
 			slot = army_chief
 			idea_token = YUG_josip_broz_tito

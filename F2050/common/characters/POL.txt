@@ -258,7 +258,7 @@ characters = {
 	}
 
 	POL_wladyslaw_gomulka = {
-		name=POL_wladyslaw_gomulka
+		name="Lucille Kacynski"
 		portraits = {
 			civilian = {
 				large=GFX_portrait_POL_wladyslaw_gomulka

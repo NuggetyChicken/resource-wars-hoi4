@@ -14,7 +14,7 @@ characters={
 	}
 
 	ROM_constantin_ion_parhon={
-		name=ROM_constantin_ion_parhon
+		name="Corvid Petrikov"
 		portraits={
 			civilian={
 				large="GFX_Portrait_romania_constantin_ion_parhon"
