@@ -27,7 +27,7 @@ state={
 		victory_points = {
 			10775 1 
 		}
-		owner = ORO
+		owner = ETH
 		add_core_of = ETH
 		add_core_of = SOM
 		add_core_of = ORO

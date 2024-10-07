@@ -265,7 +265,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=leninism
+			ideology=National_Communism
 			traits = { soviet_thaw }
 			expire="1965.1.1.1"
 			id=-1

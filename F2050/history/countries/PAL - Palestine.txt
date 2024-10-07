@@ -81,7 +81,7 @@ create_country_leader = {
 	name = "Zafir Abdelrahman"
 	desc = ""
 	picture =  gfx/leaders/PAL/zafir.abdelrahman.png
-	ideology = liberalism
+	ideology = Neo_Liberalism
 	traits = {
 		#
 	}

@@ -24,7 +24,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = stalinism
+			ideology = National_Communism
 			traits = { stalin_heart_of_steel }
 			expire = "1953.3.1.1"
 			id = -1
