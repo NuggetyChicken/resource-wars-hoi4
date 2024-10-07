@@ -1,0 +1,27 @@
+﻿l_english:
+### FOCUSES ###
+BUL_the_great_rule_of_bulgaria_focus:0 "The Great Rule of §tPRB§!"
+BUL_the_great_rule_of_bulgaria_focus_desc:0 "The Great People's Republic of Bulgaria continues to defend the ideas of communism within the country!"
+BUL_carry_out_agricultural_reform_focus:0 "Carry out agricultural reform"
+BUL_carry_out_agricultural_reform_focus_desc:0 "Bulgaria's agricultural sector is experiencing stagnation due to a lack of modern technological integration. This absence significantly hinders productivity and efficiency gains. To overcome this challenge, comprehensive reforms are essential to reinvigorate the sector and promote the adoption of contemporary agricultural practices."
+
+### TRAITS ###
+BUL_butcher_trait:0 "§tButcher§!" 
+BUL_paranoid_trait:0 "§tParanoid§!"
+
+### IDEAS ###
+BUL_BKP_idea:0 "§tBŭlgarska Komunisticheska Partiya§!"
+BUL_BKP_idea_desc:0 "The §tBŭlgarska Komunisticheska Partiya§! has held undisputed political power in Bulgaria for an extended period exceeding a century.  It has positioned itself as a protector against external threats, namely capitalist ideologies, bourgeois influences, and imperialism, ensuring the nation's stability. \n\nUnlike its counterparts in other Soviet republics, the §tBŭlgarska Komunisticheska Partiya§! exercises comprehensive control, extending beyond governmental institutions to encompass all facets of Bulgarian life. Its influence is pervasive yet subtle, remaining largely unnoticed by the populace who are unaware of the constant monitoring and surveillance they are subject to. The Party maintains a vigilant awareness of all activities and communications within the nation, viewing this comprehensive oversight as the foundation of societal strength."
+BUL_agricultural_crisis_1_idea:0 "Crisis in agriculture"
+BUL_agricultural_crisis_1_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
+BUL_agricultural_crisis_2_idea:0 "Crisis in agriculture"
+BUL_agricultural_crisis_2_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
+
+### EVENTS ###
+bulgaria.1.t:0 "People's Republic of Bulgaria"
+bulgaria.1.d:0 "The People's Republic of Bulgaria, established in the previous century, has demonstrated remarkable resilience despite encountering numerous obstacles throughout its history. The nation successfully navigated periods of unrest and political dissent primarily due to the transformative governance model implemented by Nikul Vasilev upon his ascension to leadership in 2047. His administration ushered in a period of stability for Bulgaria. \n\nHowever, a new challenge has emerged: an agricultural crisis that originated in 2054 following radical economic reforms which destabilized the nation's agricultural sector. This upheaval has resulted in a significant decline in food production and disproportionately impacted rural communities. \n\nCompounding these internal difficulties is a diplomatic impasse with neighboring nations Yugoslavia and Greece. Nevertheless, Bulgaria enjoys the support of the USSR, placing it in a favorable position to safeguard its strategic interests within the Balkans and maintain regional influence for the foreseeable future. \n\nThe situation remains precarious."
+bulgaria.1.a:0 "Everything's going according to plan, almost everything"
+
+bulgaria.2.t:0 "Agricultural reform"
+bulgaria.2.d:0 "The socialist government of Bulgaria took decisive action to address the nation’s agricultural crisis by distributing modern machinery and technology to farming regions across the country. While this initiative did not fully resolve the agricultural issues, it significantly alleviated the crisis and improved productivity. Today, a variety of popular products have begun to reappear on store shelves in the cities, while trucks are once again delivering goods to the rural areas. This marks a significant step towards revitalizing the agricultural sector and ensuring food security for all Bulgarians."
+bulgaria.2.a:0 "Eat while you can"

@@ -1,0 +1,17 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_goal_unknown"
+		texturefile = "gfx/interface/goals/goal_unknown.dds"
+		legacy_lazy_load = no
+	}
+	### BULGARIA ###
+	spriteType = {
+		name = "GFX_goal_BUL_the_great_rule_of_bulgaria_focus"
+		textureFile = "gfx/interface/goals/BUL_the_great_rule_of_bulgaria_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_carry_out_agricultural_reform_focus"
+		textureFile = "gfx/interface/goals/BUL_carry_out_agricultural_reform_focus.dds"
+	}
+	
+}
