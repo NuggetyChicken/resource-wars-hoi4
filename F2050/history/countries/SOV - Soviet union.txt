@@ -854,43 +854,39 @@ if = {
 	}
 	set_autonomy = {
 		target = POL
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = DDR
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = CZE
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = ROM
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = BUL
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = EST
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = LAT
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = LIT
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = FIN
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = HUN
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_puppet
 	}
 	else = {
 		puppet = DDR

@@ -1,53 +1,15 @@
 characters={
-	EST_konstantin_pats={
-		name=EST_konstantin_pats
+	EST_kalju_kirsipuu={
+		name="Kalju Kirsipuu"
 		portraits={
 			civilian={
-				large="GFX_Portrait_estonia_konstantin_pats"
-			}
-			army = {
-				small = GFX_portrait_EST_konstantin_pats_small #Not ever used
+				large="gfx/leaders/EST/EST_kalju_kirsipuu.dds"
 			}
 		}
 		country_leader={
-			ideology=oligarchism
-			expire="1965.1.1.1"
+			ideology = despotism
+			expire="2088.1.1.1"
 			id=-1
-		}
-	}
-
-	EST_artur_sirk={
-		name=EST_artur_sirk
-		portraits={
-			civilian={
-				large="GFX_portrait_EST_artur_sirk"
-			}
-			army = {
-				small = "GFX_idea_EST_artur_sirk" #Not ever used
-			}
-		}
-		country_leader={
-			ideology=fascism_ideology
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-
-	EST_jaan_anvelt={
-		name=EST_jaan_anvelt
-		portraits={
-			civilian={
-				large="GFX_portrait_EST_jaan_anvelt"
-			}
-			army = {
-				small = "GFX_idea_EST_jaan_anvelt" #Not ever used
-			}
-		}
-		country_leader={
-			ideology=marxism
-			expire="1965.1.1.1"
-			id=-1
-			traits = { baltic_revolutionary }
 		}
 	}
 
