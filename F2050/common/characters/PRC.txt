@@ -1,6 +1,6 @@
 characters={
 	PRC_mao_zedong={
-		name="Zhongguo Jiefangzhe"
+		name="Xin Xifeng"
 		portraits={
 			army={
 				large="GFX_portrait_prc_mao_zedong"
@@ -21,7 +21,7 @@ characters={
 			legacy_id=-1
 		}
 		country_leader={
-			ideology=marxism
+			ideology=Neo_Maoism
 			traits={ cornered_fox }
 			expire="1965.1.1.1"
 			id=-1
