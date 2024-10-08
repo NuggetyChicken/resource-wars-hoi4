@@ -13,5 +13,9 @@ spriteTypes = {
 		name = "GFX_goal_BUL_carry_out_agricultural_reform_focus"
 		textureFile = "gfx/interface/goals/BUL_carry_out_agricultural_reform_focus.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_BUL_recovery_from_agricultural_crisis_focus"
+		textureFile = "gfx/interface/goals/BUL_recovery_from_agricultural_crisis_focus.dds"
+	}
 	
 }

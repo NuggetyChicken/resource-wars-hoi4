@@ -4,6 +4,8 @@ BUL_the_great_rule_of_bulgaria_focus:0 "The Great Rule of §tPRB§!"
 BUL_the_great_rule_of_bulgaria_focus_desc:0 "The Great People's Republic of Bulgaria continues to defend the ideas of communism within the country!"
 BUL_carry_out_agricultural_reform_focus:0 "Carry out agricultural reform"
 BUL_carry_out_agricultural_reform_focus_desc:0 "Bulgaria's agricultural sector is experiencing stagnation due to a lack of modern technological integration. This absence significantly hinders productivity and efficiency gains. To overcome this challenge, comprehensive reforms are essential to reinvigorate the sector and promote the adoption of contemporary agricultural practices."
+BUL_recovery_from_agricultural_crisis_focus:0 "Recovery from the Agricultural Crisis"
+BUL_recovery_from_agricultural_crisis_focus_desc:0 "Our goal is to recover from the agricultural crisis."
 
 ### TRAITS ###
 BUL_butcher_trait:0 "§tButcher§!" 
@@ -16,6 +18,8 @@ BUL_agricultural_crisis_1_idea:0 "Crisis in agriculture"
 BUL_agricultural_crisis_1_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
 BUL_agricultural_crisis_2_idea:0 "Crisis in agriculture"
 BUL_agricultural_crisis_2_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
+BUL_land_reform_idea:0 "Land reform"
+BUL_land_reform_idea_desc:0 "Unjust and excessive governmental control over land necessitates the implementation of land redistribution policies aimed at achieving equitable agricultural land allocation. "
 
 ### EVENTS ###
 bulgaria.1.t:0 "People's Republic of Bulgaria"

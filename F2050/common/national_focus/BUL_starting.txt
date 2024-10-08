@@ -81,4 +81,301 @@ focus_tree = {
 			country_event = bulgaria.2
 		}
 	}
+	focus = {
+		id = BUL_recovery_from_agricultural_crisis_focus
+		icon = GFX_goal_BUL_recovery_from_agricultural_crisis_focus
+		x = -2
+		y = 2
+		prerequisite = {
+			focus = BUL_carry_out_agricultural_reform_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			add_stability = 0.02
+		}
+	}
+	focus = {
+		id = BUL_land_reform_focus
+		icon = GFX_goal_BUL_land_reform_focus
+		x = -3
+		y = 3
+		prerequisite = {
+			focus = BUL_recovery_from_agricultural_crisis_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			add_timed_idea = {
+				idea = BUL_land_reform_idea
+				days = 365
+			}
+		}
+	}
+	focus = {
+		id = BUL_land_reform_focus
+		icon = GFX_goal_BUL_land_reform_focus
+		x = -3
+		y = 3
+		prerequisite = {
+			focus = BUL_recovery_from_agricultural_crisis_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			add_timed_idea = {
+				idea = BUL_land_reform_idea
+				days = 365
+			}
+		}
+	}
+	focus = {
+		id = BUL_land_reform_focus
+		icon = GFX_goal_BUL_land_reform_focus
+		x = -3
+		y = 3
+		prerequisite = {
+			focus = BUL_recovery_from_agricultural_crisis_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = BUL_attract_more_people_to_work_focus
+		icon = GFX_goal_BUL_attract_more_people_to_work_focus
+		x = -3
+		y = 4
+		prerequisite = {
+			focus = BUL_land_reform_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = BUL_buy_equipment_from_ussr_focus
+		icon = GFX_goal_BUL_buy_equipment_from_ussr_focus
+		x = -1
+		y = 3
+		prerequisite = {
+			focus = BUL_recovery_from_agricultural_crisis_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = BUL_start_producing_your_own_agricultural_equipment_focus
+		icon = GFX_goal_BUL_start_producing_your_own_agricultural_equipment_focus
+		x = -1
+		y = 4
+		prerequisite = {
+			focus = BUL_buy_equipment_from_ussr_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = BUL_end_of_crisis_focus
+		icon = GFX_goal_BUL_end_of_crisis_focus
+		x = -2
+		y = 5
+		prerequisite = {
+			focus = BUL_attract_more_people_to_work_focus
+		}
+		prerequisite = {
+			focus = BUL_start_producing_your_own_agricultural_equipment_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			remove_ideas = BUL_agricultural_crisis_2_idea
+		}
+	}
 }
