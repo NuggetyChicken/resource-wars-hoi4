@@ -11,7 +11,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = stalinism
+			ideology = National_Communism
 			traits = { BUL_butcher_trait BUL_paranoid_trait }
 			expire = "2099.1.1"
 			id = -1

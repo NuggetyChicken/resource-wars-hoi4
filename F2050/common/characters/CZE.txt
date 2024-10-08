@@ -77,7 +77,7 @@ characters={
 		}
 		
 		country_leader={
-			ideology=stalinism
+			ideology=National_Communism
 			expire="1965.1.1.1"
 			id=-1
 		}
