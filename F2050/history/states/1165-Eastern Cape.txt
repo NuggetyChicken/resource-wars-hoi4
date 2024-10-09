@@ -1,7 +1,7 @@
 
 state={
-	id=681
-	name="STATE_681"
+	id=1165
+	name="STATE_1165"
 
 	history={
 		owner = SAF
@@ -9,24 +9,24 @@ state={
 			infrastructure = 3
 			industrial_complex = 2
 			air_base = 1
-			12589 = {
-				naval_base = 4
+			1833 = {
+				naval_base = 2
 
 			}
 
 		}
 		victory_points = {
-			12589 10 
+			4696 3 
 		}
 		add_core_of = SAF
 
 	}
 
 	provinces={
-		10415 12547 12589 12692 
+		1833 4584 4696 4822 
 	}
-	manpower=1637178
+	manpower=62157
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

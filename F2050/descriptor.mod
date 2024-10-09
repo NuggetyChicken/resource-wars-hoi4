@@ -11,6 +11,6 @@ tags={
 	"Graphics"
 }
 picture="thumbnail.png"
-name="Fallout 2050s Base Template"
+name="Fallout: War Never Changes"
 supported_version="1.14.9"
 remote_file_id="3343104133"
