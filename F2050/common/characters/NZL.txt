@@ -1,13 +1,13 @@
 characters={
 	NZL_michael_joseph_savage={
-		name=NZL_michael_joseph_savage
+		name="Dr. House"
 		portraits={
 			civilian={
-				large="GFX_NZL_michael_joseph_savage"
+				large="GFX_portrait_NZL_peter_fraser"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=Social_Democract
 			expire="1965.1.1.1"
 			id=-1
 		}

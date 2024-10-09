@@ -29,14 +29,14 @@ characters={
 	}
 
 	JAP_tetsu_katayama={
-		name=JAP_tetsu_katayama
+		name="Hideo Kurogawa"
 		portraits={
 			civilian={
 				large="GFX_Portrait_tetsu_katayama"
 			}
 		}
 		country_leader={
-			ideology=liberalism
+			ideology=Neo_Liberalism
 			expire="1989.1.1.1"
 			id=-1
 		}

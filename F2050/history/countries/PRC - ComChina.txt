@@ -1,4 +1,4 @@
-﻿capital = 622
+﻿capital = 608
 
 oob = "PRC_1936"
 
@@ -12,6 +12,7 @@ set_stability = 0.6
 set_war_support = 0.7
 
 recruit_character = PRC_mao_zedong
+recruit_character = PRC_xin_xifeng
 recruit_character = PRC_zhu_de
 recruit_character = PRC_chen_yi
 recruit_character = PRC_peng_dehuai
@@ -64,7 +65,7 @@ if = {
 
 set_politics = {
 	ruling_party = communism
-	last_election = "1936.1.1"
+	last_election = "2051.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -73,7 +74,7 @@ set_popularities = {
 }
 
 create_faction = Internationale
-add_to_faction = CHI
+add_to_faction = PRC
 add_to_faction = MON
 
 add_ideas = {

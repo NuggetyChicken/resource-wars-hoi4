@@ -1,13 +1,13 @@
 characters={
-	CHI_chiang_kaishek={
-		name=CHI_chiang_kaishek
+	CHI_zhong_xuefeng={
+		name="Zhong Xuefeng"
 		portraits={
 			civilian={
 				large=GFX_portrait_CHI_chiang_kaishek
 			}
 		}
 		country_leader={
-			ideology=despotism
+			ideology=conservatism
 			traits={ generallissimo }
 			expire="1965.1.1.1"
 			id=-1
