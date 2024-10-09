@@ -22,4 +22,12 @@ spriteTypes = {
 		name = "GFX_idea_BUL_agricultural_crisis_2_idea"
 		texturefile = "gfx/interface/ideas/BUL_agricultural_crisis_idea.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_BUL_soviet_equipment_bonds_idea"
+		texturefile = "gfx/interface/ideas/BUL_soviet_equipment_bonds_idea.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_BUL_land_reform_idea"
+		texturefile = "gfx/interface/ideas/BUL_land_reform_idea.dds"
+	}
 }

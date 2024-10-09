@@ -15,7 +15,7 @@ focus_tree = {
 	focus = {
 		id = BUL_the_great_rule_of_bulgaria_focus
 		icon = GFX_goal_BUL_the_great_rule_of_bulgaria_focus
-		x = 3
+		x = 4
 		y = 0
 	
 		cost = 3
@@ -84,7 +84,7 @@ focus_tree = {
 	focus = {
 		id = BUL_recovery_from_agricultural_crisis_focus
 		icon = GFX_goal_BUL_recovery_from_agricultural_crisis_focus
-		x = -2
+		x = -3
 		y = 2
 		prerequisite = {
 			focus = BUL_carry_out_agricultural_reform_focus
@@ -120,12 +120,12 @@ focus_tree = {
 	focus = {
 		id = BUL_land_reform_focus
 		icon = GFX_goal_BUL_land_reform_focus
-		x = -3
-		y = 3
+		x = -1
+		y = 1
 		prerequisite = {
 			focus = BUL_recovery_from_agricultural_crisis_focus
 		}
-		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+		relative_position_id = BUL_recovery_from_agricultural_crisis_focus
 	
 		cost = 4
 	
@@ -159,12 +159,12 @@ focus_tree = {
 	focus = {
 		id = BUL_attract_more_people_to_work_focus
 		icon = GFX_goal_BUL_attract_more_people_to_work_focus
-		x = -3
-		y = 4
+		x = -1
+		y = 2
 		prerequisite = {
 			focus = BUL_land_reform_focus
 		}
-		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+		relative_position_id = BUL_recovery_from_agricultural_crisis_focus
 	
 		cost = 4
 	
@@ -189,18 +189,18 @@ focus_tree = {
 		}
 	
 		completion_reward = {
-			
+			add_ideas = BUL_attract_more_people_to_work_idea
 		}
 	}
 	focus = {
 		id = BUL_buy_equipment_from_ussr_focus
 		icon = GFX_goal_BUL_buy_equipment_from_ussr_focus
-		x = -1
-		y = 3
+		x = 1
+		y = 1
 		prerequisite = {
 			focus = BUL_recovery_from_agricultural_crisis_focus
 		}
-		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+		relative_position_id = BUL_recovery_from_agricultural_crisis_focus
 	
 		cost = 4
 	
@@ -225,18 +225,19 @@ focus_tree = {
 		}
 	
 		completion_reward = {
-			
+			add_stability = 0.02
+			add_ideas = BUL_soviet_equipment_bonds_idea
 		}
 	}
 	focus = {
 		id = BUL_start_producing_your_own_agricultural_equipment_focus
-		icon = GFX_goal_BUL_start_producing_your_own_agricultural_equipment_focus
-		x = -1
-		y = 4
+		icon = GFX_goal_BUL_carry_out_agricultural_reform_focus
+		x = 1
+		y = 2
 		prerequisite = {
 			focus = BUL_buy_equipment_from_ussr_focus
 		}
-		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+		relative_position_id = BUL_recovery_from_agricultural_crisis_focus
 	
 		cost = 4
 	
@@ -261,21 +262,25 @@ focus_tree = {
 		}
 	
 		completion_reward = {
-			
+			add_tech_bonus = {
+				bonus = 0.5
+				uses = 1
+				category = industry
+			}
 		}
 	}
 	focus = {
 		id = BUL_end_of_crisis_focus
 		icon = GFX_goal_BUL_end_of_crisis_focus
-		x = -2
-		y = 5
+		x = 0
+		y = 3
 		prerequisite = {
 			focus = BUL_attract_more_people_to_work_focus
 		}
 		prerequisite = {
 			focus = BUL_start_producing_your_own_agricultural_equipment_focus
 		}
-		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+		relative_position_id = BUL_recovery_from_agricultural_crisis_focus
 	
 		cost = 4
 	

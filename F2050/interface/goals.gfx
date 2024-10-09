@@ -17,5 +17,21 @@ spriteTypes = {
 		name = "GFX_goal_BUL_recovery_from_agricultural_crisis_focus"
 		textureFile = "gfx/interface/goals/BUL_recovery_from_agricultural_crisis_focus.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_BUL_buy_equipment_from_ussr_focus"
+		textureFile = "gfx/interface/goals/BUL_buy_equipment_from_ussr_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_land_reform_focus"
+		textureFile = "gfx/interface/goals/BUL_land_reform_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_end_of_crisis_focus"
+		textureFile = "gfx/interface/goals/BUL_end_of_crisis_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_attract_more_people_to_work_focus"
+		textureFile = "gfx/interface/goals/BUL_attract_more_people_to_work_focus.dds"
+	}
 	
 }

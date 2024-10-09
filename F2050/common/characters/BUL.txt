@@ -28,11 +28,11 @@ characters = {
  #######  ##    ## ####    ##       ######## ######## ##     ## ########  ######## ##     ##  ######  
 
 
-	BUL_atanas_shalapatov = {
-		name = BUL_atanas_shalapatov
+	BUL_teodor_atanasov = {
+		name = "Teodor Atanasov"
 		portraits = {
 			army = {
-				large = "GFX_portrait_bul_atanas_shalapatov"
+				large = "gfx/leaders/BUL/BUL_teodor_atanasov.dds"
 				small = GFX_portrait_BUL_atanas_shalapatov_small
 			}
 		}

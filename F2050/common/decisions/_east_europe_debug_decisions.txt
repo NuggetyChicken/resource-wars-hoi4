@@ -1,0 +1,16 @@
+east_europe_debug_decisions = {
+	ee_debug_make_ROM_democratic_decision = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			always = yes
+		}
+
+		complete_effect = {
+			ROM = { country_event = romania_revolt.1 }
+		}
+	}
+}

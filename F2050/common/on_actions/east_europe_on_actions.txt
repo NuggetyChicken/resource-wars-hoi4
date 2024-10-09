@@ -1,0 +1,9 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			ROM = {
+				country_event = romania_revolt.1
+			}
+		}
+	}
+}

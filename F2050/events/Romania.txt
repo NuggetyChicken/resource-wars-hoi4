@@ -1,0 +1,27 @@
+add_namespace = romania_revolt
+
+country_event = {
+	id = romania_revolt.1
+	title = romania_revolt.1.t
+	desc = romania_revolt.1.d
+	picture = x
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	immediate = {
+	}
+	mean_time_to_happen = { days = 1 }
+
+	option = {
+		name = romania_revolt.1.a
+		country_event = romania_revolt.2
+		add_popularity = {
+			ideology = democratic
+			popularity = 0.21
+		}
+		add_popularity = {
+			ideology = neutrality
+			popularity = 0.05
+		}
+	}
+}
