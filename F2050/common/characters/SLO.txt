@@ -1,4 +1,17 @@
 characters={
+	SLO_tadeas_bosko={
+		name="Tadeáš Bosko"
+		portraits={
+			civilian={
+				large=gfx/leaders/SLO/SLO_tadeas_bosko.png
+			}
+		}
+		country_leader={
+			ideology=Neo_Liberalism
+			expire="1965.1.1"
+			id=-1
+		}
+	}
 	SLO_jozef_tiso={
 		name="Jozef Tiso"
 		portraits={

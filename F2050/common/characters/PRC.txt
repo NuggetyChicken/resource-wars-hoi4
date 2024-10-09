@@ -1,5 +1,19 @@
 characters={
 	PRC_mao_zedong={
+		name="Whang Lao"
+		portraits={
+			civilian={
+				large=gfx/leaders/CHI/Chairman_mao_mao.png
+			}
+		}
+		country_leader={
+			ideology=Left_Nationalism
+			traits={ }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	PRC_xin_xifeng={
 		name="Xin Xifeng"
 		portraits={
 			army={

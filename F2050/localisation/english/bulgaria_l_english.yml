@@ -29,11 +29,7 @@ BUL_agricultural_crisis_1_idea_desc:0 "Only 2 years ago the Bulgarian economy st
 BUL_agricultural_crisis_2_idea:0 "Crisis in agriculture"
 BUL_agricultural_crisis_2_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
 BUL_land_reform_idea:0 "Land reform"
-BUL_land_reform_idea_desc:0 "Unjust and excessive governmental control over land necessitates the implementation of land redistribution policies aimed at achieving equitable agricultural land allocation."
-BUL_soviet_equipment_bonds_idea:0 "Soviet equipment bonds"
-BUL_soviet_equipment_bonds_idea_desc:0 "After buying Soviet equipment, they taxed us with bonds for that purchase, we are obliged to pay the money on those bonds."
-BUL_attract_more_people_to_work_idea:0 "Get more people to work"
-BUL_attract_more_people_to_work_idea_desc:0 "We brought more people into the workplace."
+BUL_land_reform_idea_desc:0 "Unjust and excessive governmental control over land necessitates the implementation of land redistribution policies aimed at achieving equitable agricultural land allocation. "
 
 ### EVENTS ###
 bulgaria.1.t:0 "People's Republic of Bulgaria"

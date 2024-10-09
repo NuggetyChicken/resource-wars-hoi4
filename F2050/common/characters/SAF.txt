@@ -73,14 +73,14 @@ characters={
 	}
 
 	SAF_jan_smuts = {
-		name=SAF_jan_smuts
+		name="Jay Iffer-Harley"
 		portraits={
 			civilian={
 				large=GFX_portrait_SAF_jan_smuts
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=Neo_Liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}
