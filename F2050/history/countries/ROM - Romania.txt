@@ -42,32 +42,8 @@ set_research_slots = 3
 set_stability = 0.6
 set_war_support = 0.6
 
-recruit_character = ROM_gheorghe_tatarescu
-recruit_character = ROM_constantin_ion_parhon
-recruit_character = ROM_armand_calinescu
-recruit_character = ROM_corneliu_codreanu
-recruit_character = ROM_petre_dumitrescu
-recruit_character = ROM_ion_antonescu
-recruit_character = ROM_ioan_mihail_racovita
-recruit_character = ROM_gheorghe_avramescu
-recruit_character = ROM_constantin_sanatescu
-recruit_character = ROM_horia_macellariu
-recruit_character = ROM_gheorghe_potopeanu
-recruit_character = ROM_emanoil_ionescu
-recruit_character = ROM_gheorghe_mihail
-recruit_character = ROM_ermil_gheorghiu
-recruit_character = ROM_nicolae_sova
-recruit_character = ROM_gheorghe_jienescu
-recruit_character = ROM_paul_teodorescu
-recruit_character = ROM_gheorghe_vasiliu
-recruit_character = ROM_iuliu_maniu
-recruit_character = ROM_petru_groza
-recruit_character = ROM_gheorghe_gheorghiu_dej
-recruit_character = ROM_nicolae_malaxa
-recruit_character = ROM_mihail_sturdza
-recruit_character = ROM_gheorghe_argeseanu
-recruit_character = ROM_king_michael
-recruit_character = ROM_octavian_goga
+recruit_character = ROM_military_command_of_afprr
+#recruit_character = 
 
 # Starting tech
 set_technology = {
@@ -122,70 +98,6 @@ if = {
 	}
 }
 
-#Ideas
-if = {
-	limit = {
-		has_dlc = "Death or Dishonor"
-	}
-	add_ideas = {
-		ROM_king_carol_ii_hedonist
-	}
-	give_guarantee = CZE
-	give_guarantee = GRE
-	give_guarantee = TUR
-	give_guarantee = YUG
-}
-if = {
-	limit = {
-		AND = {  
-			NOT = { has_dlc = "Death or Dishonor" }
-			has_dlc = "Battle for the Bosporus"
-		}
-	}
-	give_guarantee = GRE
-	give_guarantee = TUR
-	give_guarantee = YUG
-}
-add_ideas = neutrality_idea
-
-#Kick off kings crazy life
-if = {
-	limit = {
-		has_dlc = "Death or Dishonor"
-	}
-	ROM = {
-		#Pick from list of the sane events first
-		random_list = {
-			100 = { country_event = { id = DOD_romania.81 days = 2 random_days = 20 } }
-		}
-	}
-}
-
-if = {
-	limit = {
-		#has_dlc = Battle for the Bosporus
-	}
-	add_opinion_modifier = { 
-		target = GRE
-		modifier = BFTB_balkan_pact_ally
-	}
-	add_opinion_modifier = { 
-		target = TUR
-		modifier = BFTB_balkan_pact_ally
-	}
-	add_opinion_modifier = { 
-		target = YUG
-		modifier = BFTB_balkan_pact_ally
-	}
-	add_opinion_modifier = { 
-		target = BUL
-		modifier = BFTB_balkan_pact_enemy
-	}
-	add_opinion_modifier = { 
-		target = HUN
-		modifier = BFTB_balkan_pact_enemy
-	}
-}
 
 set_convoys = 10
 
@@ -279,16 +191,5 @@ if = {
 			mid_1_custom_slot = ship_mine_layer_1
 			rear_1_custom_slot = ship_depth_charge_1
 		}
-	}
-}
-
-# 1939 Start #
-1939.1.1 = {
-	if = {
-		limit = { not = { has_dlc = "Man the Guns" } }
-		# Ship variants #
-	}
-	if = {
-		limit = { has_dlc = "Man the Guns" }
 	}
 }

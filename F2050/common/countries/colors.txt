@@ -295,8 +295,12 @@ OMA = {
 	color_ui = rgb { 202 131 139 }
 }
 SLO = {
-	color = rgb { 158  161  188 }
-	color_ui = rgb { 255 255 255 }
+	color = rgb { 60 122 142 }
+	color_ui = rgb { 60 122 142 }
+}
+RSL = {
+	color = rgb { 178 82 82 }
+	color_ui = rgb { 178 82 82 }
 }
 RAJ = {
 	color = rgb { 226  135  40 }

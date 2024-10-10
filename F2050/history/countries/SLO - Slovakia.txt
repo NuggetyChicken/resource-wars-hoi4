@@ -1,7 +1,10 @@
-﻿capital = 70
+﻿capital = 1171
 
-
-
+declare_war_on = {
+	target = RSL
+	type = civil_war
+}
+add_civil_war_target = RSL
 
 set_technology = {
 	tech_trucks = 1
@@ -26,7 +29,6 @@ if = {
 		gwtank = 1
 		basic_light_tank = 1
 	}
-	set_oob = "SLO_1939"
 }
 if = {
 	limit = {
@@ -36,7 +38,6 @@ if = {
 		gwtank_chassis = 1
 		basic_light_tank_chassis = 1
 	}
-	set_oob = "SLO_1939_nsb"
 }
 if = {
 	limit = { has_dlc = "By Blood Alone" }
@@ -50,6 +51,8 @@ if = {
 		}
 	}
 }
+
+set_oob = "SLO_2056"
 
 recruit_character = SLO_tadeas_bosko
 recruit_character = SLO_jaroslav_kratochvil

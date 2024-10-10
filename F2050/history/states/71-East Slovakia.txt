@@ -9,18 +9,14 @@ state={
 		victory_points = {
 			3581 3
 		}
-		owner = SLO
+		owner = RSL
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
 		}
 		add_core_of = CZE
 		add_core_of = SLO
-
-		2900.3.14 = {
-			owner = SLO
-			controller = SLO
-		}
+		add_core_of = RSL
 	}
 
 	provinces={

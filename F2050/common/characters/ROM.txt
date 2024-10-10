@@ -1,4 +1,12 @@
 characters={
+	ROM_military_command_of_afprr = {
+		name="Military Command"
+		portraits={
+			civilian={
+				large="gfx/leaders/ROM/ROM_military_command_of_afprr.dds"
+			}
+		}
+	}
 	ROM_gheorghe_tatarescu={
 		name=ROM_gheorghe_tatarescu
 		portraits={
@@ -13,11 +21,11 @@ characters={
 		}
 	}
 
-	ROM_constantin_ion_parhon={
+	ROM_corvid_petrikov={
 		name="Corvid Petrikov"
 		portraits={
 			civilian={
-				large="GFX_Portrait_romania_constantin_ion_parhon"
+				large="gfx/leaders/ROM/ROM_corvid_petrikov.dds"
 			}
 		}
 		country_leader={

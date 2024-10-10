@@ -17,6 +17,20 @@ characters = {
 			id = -1
 		}
 	}
+	BUL_rayko_svetkov = {
+		name = "Rayko Svetkov"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BUL/BUL_rayko_svetkov.dds"
+			}
+		}
+		country_leader = {
+			ideology = Neo_Liberalism
+			traits = { }
+			expire = "2099.1.1"
+			id = -1
+		}
+	}
 
 
 ##     ## ##    ## #### ########    ##       ########    ###    ########  ######## ########   ######  

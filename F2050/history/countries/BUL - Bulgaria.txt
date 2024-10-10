@@ -38,6 +38,7 @@ set_war_support = 0.45
 
 ### LEADERS ###
 recruit_character = BUL_nikul_vasilev
+recruit_character = BUL_rayko_svetkov
 
 ### ARMY LEADERS ###
 recruit_character = BUL_teodor_atanasov
