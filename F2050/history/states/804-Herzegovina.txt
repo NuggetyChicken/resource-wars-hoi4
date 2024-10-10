@@ -18,6 +18,7 @@ state={
 		add_core_of = YUG
 		add_core_of = BOS
 		add_core_of = HRZ
+		set_demilitarized_zone = yes
 
 	}
 

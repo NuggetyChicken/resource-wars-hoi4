@@ -3575,6 +3575,13 @@ spriteTypes = {
 		name = "GFX_report_event_BUL_starting"
 		texturefile = "gfx/event_pictures/report_event_BUL_starting.dds"
 	}
+	#############
+	### CHINA ###
+	#############
+	spriteType = {
+		name = "GFX_report_event_PRC_starting"
+		texturefile = "gfx/event_pictures/report_event_PRC_first_flavor.dds"
+	}
 }
 
 

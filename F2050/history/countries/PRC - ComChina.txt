@@ -58,8 +58,13 @@ if = {
 		target = MON
 		autonomous_state = autonomy_integrated_puppet
 	}
+	set_autonomy = {
+		target = IND
+		autonomous_state = autonomy_integrated_puppet
+	}
 	else = {
 		puppet = MON
+		puppet = IND
 	}
 }
 
@@ -76,11 +81,13 @@ set_popularities = {
 create_faction = Internationale
 add_to_faction = PRC
 add_to_faction = MON
+add_to_faction = IND
 
 add_ideas = {
 	closed_economy
 	service_by_requirement
 	partial_economic_mobilisation
+	prc_golden_era
 }
 
 if = {
