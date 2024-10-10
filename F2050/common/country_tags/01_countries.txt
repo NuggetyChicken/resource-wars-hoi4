@@ -1,1 +1,5 @@
 KOS	= "countries/Kosovo.txt"
+ASB	= "countries/al-Shabaab.txt"
+SYB	= "countries/Syndisomalia.txt"
+SYP	= "countries/Puntland.txt"
+SMR	= "countries/Somaliland.txt"

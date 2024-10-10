@@ -2,7 +2,6 @@
 LIE = "countries/Liechtenstein.txt"
 MCO = "countries/Monaco.txt"
 ADR = "countries/Andorra.txt"
-SMR = "countries/San Marino.txt"
 MRV = "countries/Moravia.txt"
 SAR = "countries/Saar.txt"
 FLA = "countries/Flanders.txt"

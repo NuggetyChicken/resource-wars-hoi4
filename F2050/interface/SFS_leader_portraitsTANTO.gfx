@@ -47,4 +47,36 @@ spriteTypes = {
 		name = GFX_portrait_ORO_Valerie_Lebedjev
 		texturefile = gfx/leaders/ORO/ORO_Valerie_Lebedjev.dds
 	}
+	spriteType = {
+		name = GFX_portrait_ASB_Mahad_Horseed
+		texturefile = gfx/leaders/ASB/ASB_Mahad_Horseed.dds
+	}
+	spriteType = {
+		name = GFX_portrait_ASB_Mahad_Horseed
+		texturefile = gfx/leaders/ASB/ASB_Mahad_Horseed.dds
+	}
+	spriteType = {
+		name = GFX_portrait_ASB_Mahad_Horseed
+		texturefile = gfx/leaders/ASB/ASB_Mahad_Horseed.dds
+	}
+	spriteType = {
+		name = GFX_portrait_SYB_Asad_Omar
+		texturefile = gfx/leaders/SYB/SYB_Asad_Omar.dds
+	}
+	spriteType = {
+		name = GFX_portrait_SYB_Digaale
+		texturefile = gfx/leaders/SYB/SYB_Asad_Omar.dds
+	}
+	spriteType = {
+		name = GFX_portrait_SYP_Xirsi
+		texturefile = gfx/leaders/SYP/SYP_Xirsi.dds
+	}
+	spriteType = {
+		name = GFX_portrait_SYP_Buraale 
+		texturefile = gfx/leaders/SYP/SYP_Buraale.dds
+	}
+	spriteType = {
+		name = SYM_Abdullahi_Hassan 
+		texturefile = gfx/leaders/SYM/SYM_SYM_Abdullahi_Hassan.dds
+	}
 }
