@@ -196,10 +196,6 @@ if = {
 		target = BAY
 		autonomous_state = autonomy_integrated_puppet
 	}
-	set_autonomy = {
-		target = AUS
-		autonomous_state = autonomy_integrated_puppet
-	}
 	else = {
 		puppet = GER
 		puppet = ITA
