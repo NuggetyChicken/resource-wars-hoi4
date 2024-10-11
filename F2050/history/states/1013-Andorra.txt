@@ -3,7 +3,7 @@ state={
 	name="STATE_1013"
 
 	history={
-		owner = ADR
+		owner = FRA
 		victory_points = {
 			13387 1
 		}

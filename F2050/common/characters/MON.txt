@@ -1,13 +1,13 @@
 characters={
 	MON_anandyn_amar={
-		name="Anandyn Amar"
+		name="Arkhai Khasar"
 		portraits={
 			civilian={
 				large="GFX_portrait_mon_anandyn_amar"
 			}
 		}
 		country_leader={
-			ideology=marxism
+			ideology=Neo_Maoism
 			expire="1965.1.1.1"
 			id=-1
 		}

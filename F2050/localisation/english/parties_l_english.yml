@@ -52,3 +52,9 @@
  interim_Govt_desc:0 ""
  Oligarchism:0 "Oligarchism"
  Oligarchism_desc:0 ""
+
+ KOR_communism_party:0 "WPK"
+ KOR_communism_party_long:0 "Worker's Party of Korea"
+ KOR_democratic_party:0 "Liberal Party"
+ KOR_neutrality_party:0 "Central People's Committee"
+ KOR_fascism_party:0 "Yi Dynasty"

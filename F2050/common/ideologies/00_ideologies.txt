@@ -98,6 +98,10 @@ ideologies = {
 			Titoism = {
 				color = { 125 51 45 }
 			}
+
+			neo_juche = {
+				color = { 102 45 45 }
+			}
 		}
 
 		dynamic_faction_names = {

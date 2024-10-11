@@ -1,6 +1,6 @@
 ﻿capital = 608
 
-oob = "PRC_1936"
+oob = "CHI_1936"
 
 # Starting tech
 set_technology = {
@@ -42,10 +42,6 @@ recruit_character = PRC_lin_bojiu
 recruit_character = PRC_dong_biwu
 recruit_character = PRC_he_yuandang
 
-
-save_global_event_target_as = WTT_communist_china
-
-
 # DIPLOMACY
 if = {
 	limit = {
@@ -78,10 +74,21 @@ set_popularities = {
 	communism = 100
 }
 
+MON = {
+    add_popularity = { ideology = communism popularity = 0.8 }
+    set_politics = {
+		ruling_party = communism
+		last_election = "2052.3.5"
+		election_frequency = 48
+		elections_allowed = no
+    }
+}
+
 create_faction = Internationale
 add_to_faction = PRC
 add_to_faction = MON
 add_to_faction = IND
+add_to_faction = KOR
 
 add_ideas = {
 	closed_economy

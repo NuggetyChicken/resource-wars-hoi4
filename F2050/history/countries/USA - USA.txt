@@ -243,10 +243,6 @@ set_autonomy = {
 	autonomous_state =  autonomy_puppet
 }
 set_autonomy = {
-	target = KOR
-	autonomous_state =  autonomy_puppet
-}
-set_autonomy = {
 	target = CHI
 	autonomous_state =  autonomy_puppet
 }
