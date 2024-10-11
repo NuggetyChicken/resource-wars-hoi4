@@ -125,7 +125,7 @@ add_ideas = {
 
 
 create_country_leader = {
-	name = "Trần Hoàng Lân"
+	name = "Tran Hoàng Lân"
 	desc = ""	 
 	picture = gfx/leaders/CHI/Tran.Hoang.Lan.png
 	expire = "1965.1.1"

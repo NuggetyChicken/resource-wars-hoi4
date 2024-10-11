@@ -22,7 +22,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Kim Jong Un"
+	name = "Kim Sung-Ki"
 	desc = ""
 	picture = gfx/leaders/CHI/Kim_jong_Un_old.png
 	expire = "1965.1.1"
