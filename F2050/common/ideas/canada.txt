@@ -15,8 +15,8 @@ ideas = {
 				add_stability = -0.055
 				war_support_factor = 0.075
 				political_power_factor = 0.03
-        recruitable_population	= 0.03
-        defensive_war_stability_factor = 0.25
+        			recruitable_population	= 0.03
+        			defensive_war_stability_factor = 0.25
 				
 			}
 		
@@ -37,7 +37,7 @@ ideas = {
 		
 			modifier = {
 				war_support_factor = 0.1
-        defensive_war_stability_factor = 0.5
+        			defensive_war_stability_factor = 0.5
 				political_power_factor = 0.05
 			}
 		
