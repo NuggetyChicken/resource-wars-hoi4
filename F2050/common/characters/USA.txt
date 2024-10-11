@@ -1,9 +1,9 @@
 characters={
 	USA_franklin_delano_roosevelt={
-		name="Richardson Garfield"
+		name="Richard Garfield"
 		portraits={
 			civilian={
-				large=GFX_portrait_USA_franklin_delano_roosevelt
+				large=gfx/leaders/USA/Portrait_USA_Richard_Garfield.png
 			}
 		}
 		country_leader={

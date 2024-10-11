@@ -3,7 +3,7 @@ characters={
 		name="Lottie Fèvre"
 		portraits={
 			civilian={
-				large="GFX_portrait_fra_pierre_laval"
+				large=gfx/leaders/FRA/portrait_fra_pierre_laval.png
 			}
 		}
 		country_leader={

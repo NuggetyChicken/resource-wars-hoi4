@@ -16,7 +16,7 @@ characters = {
 		name = "Vasily Kozlov"
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SOV/SOV_vasily_kozlov.dds"
+				large = "gfx/leaders/SOV/SOV_vasily_kozlov.png"
 			}
 		}
 		country_leader = {

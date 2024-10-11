@@ -3,7 +3,7 @@ characters={
 		name="Walter T Trudeau"
 		portraits={
 			civilian={
-				large=GFX_portrait_CAN_mackenzie_king
+				large=gfx/leaders/CAN/Portrait_Canada_Mackenzie_King.png
 			}
 		}
 		country_leader={

@@ -1,24 +1,10 @@
 characters={
-	GER_adolf_hitler={
-		name=GER_adolf_hitler
-		portraits={
-			civilian={
-				large=GFX_portrait_GER_adolf_hitler
-			}
-		}
-		country_leader={
-			ideology=nazism
-			traits={ dictator }
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
 
 	GER_konrad_adenauer={
 		name="Wilhelm Eisenhauer"
 		portraits={
 			civilian={
-				large=GFX_portrait_GER_konrad_adenauer
+				large=gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.png
 			}
 		}
 		country_leader={
@@ -29,14 +15,14 @@ characters={
 	}
 
 	GER_wilhelm_pieck={
-		name=GER_wilhelm_pieck
+		name="Otto Haus"
 		portraits={
 			civilian={
-				large=GFX_portrait_GER_wilhelm_pieck
+				large=gfx/leaders/GER/Portrait_Germany_Wilhelm_Pieck.png
 			}
 		}
 		country_leader={
-			ideology=stalinism
+			ideology=National_Communism
 			traits={ exiled }
 			expire="1965.1.1.1"
 			id=-1

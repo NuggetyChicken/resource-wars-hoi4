@@ -155,7 +155,7 @@ characters={
 		name="Peters Dustin"
 		portraits={
 			civilian={
-				large=GFX_portrait_ENG_neville_chamberlain
+				large=gfx/leaders/ENG/Portrait_Britain_Neville_Chamberlain.png
 			}
 		}
 		country_leader={

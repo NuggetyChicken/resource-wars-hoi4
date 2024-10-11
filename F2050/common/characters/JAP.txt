@@ -32,7 +32,7 @@ characters={
 		name="Hideo Kurogawa"
 		portraits={
 			civilian={
-				large="GFX_Portrait_tetsu_katayama"
+				large="gfx/leaders/JAP/portrait_jap_tetsu_katayama.png"
 			}
 		}
 		country_leader={
