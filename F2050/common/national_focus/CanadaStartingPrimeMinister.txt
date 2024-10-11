@@ -1,1 +1,49 @@
-DYANMIC FOCUS TREE IN WRITING, NO FOCUS TREE JUST YET!
+focus_tree = {
+	id = CAN_startingtree
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CAN
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 50 y = 2500 }
+	focus = {
+		id = CAN_Identity_Crisis
+		icon = GFX_Identity_Crisis
+		x = 0
+		y = 0
+	
+		cost = 0.5
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			country_event = canada.1
+			political_power = 15
+			stability_factor = 0.025
+			custom_effect_tooltip = CAN_identity_crisis_tt
+		}
+	}
