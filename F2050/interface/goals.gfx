@@ -33,5 +33,12 @@ spriteTypes = {
 		name = "GFX_goal_BUL_attract_more_people_to_work_focus"
 		textureFile = "gfx/interface/goals/BUL_attract_more_people_to_work_focus.dds"
 	}
+
+				###CANADA#####
+
+	spriteType = {
+		name = "GFX_idea_CAN_identity_crisis"
+		texturefile = "gfx/interface/ideas/CAN_identity_crisis.dds"
+	}
 	
 }
