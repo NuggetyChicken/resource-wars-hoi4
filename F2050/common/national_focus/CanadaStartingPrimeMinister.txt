@@ -42,8 +42,8 @@ focus_tree = {
 	
 		completion_reward = {
 			country_event = canada.1
-			political_power = 15
-			stability_factor = 0.025
+			addpolitical_power = 15
+			add_stability = -0.025
 			custom_effect_tooltip = CAN_identity_crisis_tt
 		}
 	}
