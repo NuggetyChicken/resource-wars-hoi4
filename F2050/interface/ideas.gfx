@@ -37,9 +37,4 @@ spriteTypes = {
 		
 				###CANADA###
 
-	spriteType = {
-		name = "GFX_idea_CAN_identity_crisis"
-		texturefile = "gfx/interface/ideas/CAN_identity_crisis.dds"
-	}
-
 }
