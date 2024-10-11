@@ -30,4 +30,9 @@ spriteTypes = {
 		name = "GFX_idea_BUL_land_reform_idea"
 		texturefile = "gfx/interface/ideas/BUL_land_reform_idea.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_BUL_five_year_plan_idea_dm"
+		texturefile = "gfx/interface/ideas/BUL_five_year_plan_idea_dm.dds"
+	}
+	
 }

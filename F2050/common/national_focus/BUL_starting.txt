@@ -15,7 +15,7 @@ focus_tree = {
 	focus = {
 		id = BUL_the_great_rule_of_bulgaria_focus
 		icon = GFX_goal_BUL_the_great_rule_of_bulgaria_focus
-		x = 4
+		x = 5
 		y = 0
 	
 		cost = 3
@@ -81,10 +81,11 @@ focus_tree = {
 			country_event = bulgaria.2
 		}
 	}
+	### RECOVERY ###
 	focus = {
 		id = BUL_recovery_from_agricultural_crisis_focus
 		icon = GFX_goal_BUL_recovery_from_agricultural_crisis_focus
-		x = -3
+		x = -4
 		y = 2
 		prerequisite = {
 			focus = BUL_carry_out_agricultural_reform_focus
@@ -306,6 +307,50 @@ focus_tree = {
 	
 		completion_reward = {
 			remove_ideas = BUL_agricultural_crisis_2_idea
+		}
+	}
+	### INDUSTRIAL ###
+	focus = {
+		id = BUL_five_year_plan_focus
+		icon = GFX_goal_BUL_five_year_plan_focus
+		x = 0
+		y = 2
+		prerequisite = {
+			focus = BUL_carry_out_agricultural_reform_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		complete_tooltip = {
+	
+		}
+	
+		completion_reward = {
+			add_dynamic_modifier = {
+				modifier = BUL_five_year_plan_idea_dm
+				days = 1825 
+			}
+			set_variable = {
+				var = BUL_cgf_BUL_five_year_plan_idea_dm
+				value = -0.05
+			}
 		}
 	}
 }
