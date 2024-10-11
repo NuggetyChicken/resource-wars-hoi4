@@ -34,5 +34,12 @@ spriteTypes = {
 		name = "GFX_idea_BUL_five_year_plan_idea_dm"
 		texturefile = "gfx/interface/ideas/BUL_five_year_plan_idea_dm.dds"
 	}
-	
+		
+				###CANADA###
+
+	spriteType = {
+		name = "GFX_idea_CAN_identity_crisis"
+		texturefile = "gfx/interface/ideas/CAN_identity_crisis.dds"
+	}
+
 }
