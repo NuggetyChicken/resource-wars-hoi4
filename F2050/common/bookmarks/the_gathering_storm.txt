@@ -489,7 +489,8 @@ bookmarks = {
 			}
 			focuses = {
 				BUL_the_great_rule_of_bulgaria_focus
-				BUL_carry_out_agricultural_reform_focus
+				BUL_five_year_plan_focus
+				BUL_end_of_crisis_focus
 			}
 		}
 

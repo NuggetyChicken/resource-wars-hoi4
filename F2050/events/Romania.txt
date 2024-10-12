@@ -9,12 +9,16 @@ country_event = {
 	is_triggered_only = yes
 
 	immediate = {
+		hidden_effect = {
+			country_event = {
+				id = romania_revolt.2
+				days = 14
+			}
+		}	
 	}
-	mean_time_to_happen = { days = 1 }
 
 	option = {
 		name = romania_revolt.1.a
-		country_event = romania_revolt.2
 		add_popularity = {
 			ideology = democratic
 			popularity = 0.21
@@ -34,25 +38,56 @@ country_event = {
 	is_triggered_only = yes
 
 	immediate = {
+		hidden_effect = {
+			country_event = { 
+				id = romania_revolt.3
+				days = 21
+			}
+			kill_ideology_leader = communism
+			add_country_leader_role = {
+				character = ROM_military_command_of_afprr
+				promote_leader = yes
+				country_leader = {
+					ideology = Militant_Socialism
+					expire = "2111.1.1.1"
+				}
+			}
+			promote_character = ROM_military_command_of_afprr
+		}
 	}
-	mean_time_to_happen = { days = 14 }
 
 	option = {
 		name = romania_revolt.2.a
-		country_event = romania_revolt.3
-		kill_ideology_leader = communism
-		add_country_leader_role = {
-			character = ROM_military_command_of_afprr
-			promote_leader = yes
-			country_leader = {
-				ideology = Militant_Socialism
-				expire = "2111.1.1.1"
-			}
-		}
-		promote_character = ROM_military_command_of_afprr
+		
 		add_popularity = {
 			ideology = democratic
 			popularity = 0.16
 		}
+	}
+}
+country_event = {
+	id = romania_revolt.3
+	title = romania_revolt.3.t
+	desc = romania_revolt.3.d
+	picture = x
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			set_politics = {
+				ruling_party = democratic
+			}
+			add_popularity = {
+				ideology = communism
+				popularity = -1
+			}
+			set_global_flag = romanian_democratic_now_gf
+			SOV = { end_puppet = ROM }
+		}
+	}
+
+	option = {
+		name = romania_revolt.3.a
 	}
 }

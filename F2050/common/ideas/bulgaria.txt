@@ -131,5 +131,25 @@ ideas = {
 				factor = 1
 			}
 		}
+		BUL_reduce_fuel_consumption_idea = {
+			removal_cost = -1
+
+			available = {
+				has_government = communism
+			}
+		
+			allowed = {
+				original_tag = BUL
+			}
+		
+			modifier = {		
+				base_fuel_gain_factor = -0.2
+				stability_factor = 0.15
+			}
+		
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	}
 }

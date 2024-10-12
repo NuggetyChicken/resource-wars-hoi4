@@ -3,4 +3,8 @@ spriteTypes = {
         name = GFX_ideology_neo_juche
         texturefile = gfx/interface/ideologies/neo_juche.dds
     }
+    spriteType = {
+        name = "GFX_ideology_totalitarianism"
+        texturefile = "gfx/interface/ideologies/totalitarianism.dds"
+    }
 }

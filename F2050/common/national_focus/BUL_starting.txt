@@ -36,9 +36,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			country_event = bulgaria.1
@@ -73,9 +71,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			country_event = bulgaria.2
@@ -110,9 +106,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			add_stability = 0.02
@@ -146,9 +140,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			add_timed_idea = {
@@ -185,9 +177,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			add_ideas = BUL_attract_more_people_to_work_idea
@@ -221,9 +211,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			add_stability = 0.02
@@ -258,9 +246,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			add_tech_bonus = {
@@ -301,9 +287,7 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
+		
 	
 		completion_reward = {
 			remove_ideas = BUL_agricultural_crisis_2_idea
@@ -338,10 +322,6 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 	
-		complete_tooltip = {
-	
-		}
-	
 		completion_reward = {
 			add_dynamic_modifier = {
 				modifier = BUL_five_year_plan_idea_dm
@@ -350,6 +330,302 @@ focus_tree = {
 			set_variable = {
 				var = BUL_cgf_BUL_five_year_plan_idea_dm
 				value = -0.05
+			}
+
+			set_variable = {
+				var = BUL_pfegf_BUL_five_year_plan_idea_dm_vv
+				value = 0
+			}
+			set_variable = {
+				var = BUL_pfmef_BUL_five_year_plan_idea_dm_vv
+				value = 0
+			}
+			set_variable = {
+				var = BUL_pfsef_BUL_five_year_plan_idea_dm_vv
+				value = 0
+			}
+		}
+	}
+	focus = {
+		id = BUL_modernize_sofia_varna_road_focus
+		icon = GFX_goal_BUL_modernize_sofia_varna_road_focus
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = BUL_five_year_plan_focus
+		}
+		relative_position_id = BUL_five_year_plan_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			build_railway = {
+				level = 3
+				build_only_on_allied = yes
+				controller_priority = {
+					base = 1
+					modifier = {
+						tag = BUL
+						add = 2
+					}
+				}
+				fallback = yes
+				path = { 949 3971 3952 3819 6842 9769 649 9783 }
+				start_province = 949
+				target_province = 9783
+			}
+			add_to_variable = {
+				var = BUL_psbf_BUL_five_year_plan_idea_dm
+				value = 0.1
+			}
+		}
+	}
+	focus = {
+		id = BUL_more_factories_focus
+		icon = GFX_goal_BUL_more_factories_focus
+		x = -1
+		y = 2
+		prerequisite = {
+			focus = BUL_modernize_sofia_varna_road_focus
+		}
+		relative_position_id = BUL_five_year_plan_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = industrial_complex
+						size > 0
+						include_locked = yes
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = industrial_complex
+										size > 0
+										include_locked = yes
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_extra_state_shared_building_slots = 4
+				add_building_construction = {
+					type = industrial_complex
+					level = 2
+					instant_build = yes
+				}
+				add_building_construction = {
+					type = arms_factory
+					level = 2
+					instant_build = yes
+				}
+			}
+			add_to_variable = {
+				var = BUL_psbf_BUL_five_year_plan_idea_dm
+				value = 0.15
+			}
+		}
+	}
+	focus = {
+		id = BUL_build_new_nuclear_power_plant_focus
+		icon = GFX_goal_BUL_build_new_nuclear_power_plant_focus
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = BUL_five_year_plan_focus
+		}
+		relative_position_id = BUL_five_year_plan_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			48 = {
+				add_dynamic_modifier = {
+					modifier = BUL_nuclear_power_plant_dm
+				}
+			}
+			add_to_variable = {
+				var = BUL_pfegf_BUL_five_year_plan_idea_dm_vv
+				value = 0.05
+			}
+			add_to_variable = {
+				var = BUL_pfmef_BUL_five_year_plan_idea_dm_vv
+				value = 0.05
+			}
+			add_to_variable = {
+				var = BUL_pfsef_BUL_five_year_plan_idea_dm_vv
+				value = 0.05
+			}
+		}
+	}
+	focus = {
+		id = BUL_reduce_fuel_consumption_focus
+		icon = GFX_goal_BUL_reduce_fuel_consumption_focus
+		x = 1
+		y = 2
+		prerequisite = {
+			focus = BUL_build_new_nuclear_power_plant_focus
+		}
+		relative_position_id = BUL_five_year_plan_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			add_to_variable = {
+				var = BUL_cgf_BUL_five_year_plan_idea_dm
+				value = -0.1
+			}
+			add_ideas = BUL_reduce_fuel_consumption_idea
+		}
+	}
+	focus = {
+		id = BUL_great_economy_focus
+		icon = GFX_goal_BUL_great_economy_focus
+		x = 0
+		y = 3
+		prerequisite = {
+			focus = BUL_more_factories_focus
+		}
+		prerequisite = {
+			focus = BUL_reduce_fuel_consumption_focus
+		}
+		relative_position_id = BUL_five_year_plan_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			add_stability = 0.05
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = industrial_complex
+						size > 0
+						include_locked = yes
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = industrial_complex
+										size > 0
+										include_locked = yes
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_extra_state_shared_building_slots = 2
+				add_building_construction = {
+					type = industrial_complex
+					level = 2
+					instant_build = yes
+				}
+			}
+			add_to_variable = {
+				var = BUL_ic_BUL_five_year_plan_idea_dm_vv
+				value = 0.2
 			}
 		}
 	}

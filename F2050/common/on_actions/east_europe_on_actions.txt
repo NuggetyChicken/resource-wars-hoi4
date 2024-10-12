@@ -9,4 +9,23 @@ on_actions = {
 			}
 		}
 	}
+	on_civil_war_end = {
+		effect = {
+			if = {
+				limit = {
+					ROOT = { original_tag = RSL }
+					from = {
+						original_tag = SLO
+					}
+				}
+				SOV = {
+					add_to_faction = RSL
+					set_autonomy = {
+						target = RSL
+						autonomy_state = autonomy_puppet
+					}
+				}
+			}
+		}
+	}
 }

@@ -102,6 +102,10 @@ ideologies = {
 			neo_juche = {
 				color = { 102 45 45 }
 			}
+
+			totalitarianism = {
+				color = { 91 33 40 }
+			}
 		}
 
 		dynamic_faction_names = {

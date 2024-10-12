@@ -33,5 +33,16 @@ spriteTypes = {
 		name = "GFX_goal_BUL_attract_more_people_to_work_focus"
 		textureFile = "gfx/interface/goals/BUL_attract_more_people_to_work_focus.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_goal_BUL_five_year_plan_focus"
+		textureFile = "gfx/interface/goals/BUL_five_year_plan_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_build_new_nuclear_power_plant_focus"
+		textureFile = "gfx/interface/goals/BUL_build_new_nuclear_power_plant_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_modernize_sofia_varna_road_focus"
+		textureFile = "gfx/interface/goals/BUL_modernize_sofia_varna_road_focus.dds"
+	}
 }

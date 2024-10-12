@@ -16,10 +16,33 @@ BUL_attract_more_people_to_work_focus:0 "Get more people to work"
 BUL_attract_more_people_to_work_focus_desc:0 "Bringing more people into the workplace will allow us to improve the performance of our economy."
 BUL_end_of_crisis_focus:0 "End of Crisis"
 BUL_end_of_crisis_focus_desc:0 "We have been able to recover from the crisis and now it is time for us to declare that the agricultural problem is solved."
+BUL_five_year_plan_focus:0 "Five-Year Plan"
+BUL_five_year_plan_focus_desc:0 "We need to start a five-year plan"
+BUL_modernize_sofia_varna_road_focus:0 "Modernize the Sofia-Varna road"
+BUL_modernize_sofia_varna_road_focus_desc:0 "The road from Sofia to Varna, the main railroad for our trade with the USSR."
+BUL_more_factories_focus:0 "More factories!"
+BUL_more_factories_focus_desc:0 "More factories! A plan to massively build factories in the region could boost our industry."
+BUL_build_new_nuclear_power_plant_focus:0 "Build a new NPP"
+BUL_build_new_nuclear_power_plant_focus_desc:0 "Nuclear power plants will allow us to produce more energy to replace oil."
+BUL_reduce_fuel_consumption_focus:0 "Reduce fuel consumption"
+BUL_reduce_fuel_consumption_focus_desc:0 "We spend too much oil on the needs of the people and the public purse. We need to reduce oil consumption in Bulgaria."
+BUL_great_economy_focus:0 "Great Economy"
+BUL_great_economy_focus_desc:0 "Our economy has improved many times over and now we can call ourselves a “Great Economy” even if it's not true!"
 
 ### TRAITS ###
 BUL_butcher_trait:0 "§tButcher§!" 
 BUL_paranoid_trait:0 "§tParanoid§!"
+
+### DYNAMIC MODIFIERS ###
+BUL_nuclear_power_plant_dm:0 "Nuclear Power Plant"
+BUL_nuclear_power_plant_dm_desc:0 "Nuclear Power Plants will allow us to produce more energy to replace scarce oil."
+BUL_five_year_plan_idea_dm:0 "Five-Year Plan"
+BUL_five_year_plan_idea_dm_desc:0 "The Five-Year Plan is a creation of planned economy borrowed from the USSR. According to this plan, we should strengthen our economy by gradually building up our economic strength."
+
+### DECISIONS ###
+BUL_nuclear_power_plant_decision_category:0 "Nuclear Power Plant"
+BUL_nuclear_power_plant_decision_category_desc:0 "Expanding nuclear energy production is crucial for our future. Building additional nuclear power plants will not only boost our energy output but also strengthen our economy and enhance our influence in the energy sector. This investment in nuclear infrastructure will pave the way for sustainable growth and energy independence."
+BUL_build_nuclear_power_plant_decision:0 "Build a §4nuclear power plant§! in §6[FROM.GetName]§!"
 
 ### IDEAS ###
 BUL_BKP_idea:0 "§tBŭlgarska Komunisticheska Partiya§!"
@@ -29,7 +52,7 @@ BUL_agricultural_crisis_1_idea_desc:0 "Only 2 years ago the Bulgarian economy st
 BUL_agricultural_crisis_2_idea:0 "Crisis in agriculture"
 BUL_agricultural_crisis_2_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
 BUL_land_reform_idea:0 "Land reform"
-BUL_land_reform_idea_desc:0 "Unjust and excessive governmental control over land necessitates the implementation of land redistribution policies aimed at achieving equitable agricultural land allocation. "
+BUL_land_reform_idea_desc:0 "Unjust and excessive governmental control over land necessitates the implementation of land redistribution policies aimed at achieving equitable agricultural land allocation."
 
 ### EVENTS ###
 bulgaria.1.t:0 "People's Republic of Bulgaria"
@@ -37,5 +60,5 @@ bulgaria.1.d:0 "The People's Republic of Bulgaria, established in the previous c
 bulgaria.1.a:0 "Everything's going according to plan, almost everything"
 
 bulgaria.2.t:0 "Agricultural reform"
-bulgaria.2.d:0 "The socialist government of Bulgaria took decisive action to address the nation’s agricultural crisis by distributing modern machinery and technology to farming regions across the country. While this initiative did not fully resolve the agricultural issues, it significantly alleviated the crisis and improved productivity. Today, a variety of popular products have begun to reappear on store shelves in the cities, while trucks are once again delivering goods to the rural areas. This marks a significant step towards revitalizing the agricultural sector and ensuring food security for all Bulgarians."
+bulgaria.2.d:0 "The socialist government of Bulgaria took decisive action to address the nation's agricultural crisis by distributing modern machinery and technology to farming regions across the country. While this initiative did not fully resolve the agricultural issues, it significantly alleviated the crisis and improved productivity. Today, a variety of popular products have begun to reappear on store shelves in the cities, while trucks are once again delivering goods to the rural areas. This marks a significant step towards revitalizing the agricultural sector and ensuring food security for all Bulgarians."
 bulgaria.2.a:0 "Eat while you can"

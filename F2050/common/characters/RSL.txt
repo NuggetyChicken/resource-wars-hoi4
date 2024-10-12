@@ -3,12 +3,12 @@ characters = {
 		name="Teodor Kočiš"
 		portraits={
 			civilian={
-				large="gfx/leaders/RSL/RSL_teodor_kocis.dds"
+				large="gfx/leaders/RSL/RSL_teodor_kocis.png"
 			}
 		}
 		country_leader={
 			ideology = Rev_Syndicalism
-			expire="1965.1.1.1"
+			expire="2155.1.1.1"
 			id=-1
 		}
 	}

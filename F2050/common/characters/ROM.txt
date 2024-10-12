@@ -3,7 +3,7 @@ characters={
 		name="Military Command"
 		portraits={
 			civilian={
-				large="gfx/leaders/ROM/ROM_military_command_of_afprr.dds"
+				large="gfx/leaders/ROM/ROM_military_command_of_afprr.png"
 			}
 		}
 	}
