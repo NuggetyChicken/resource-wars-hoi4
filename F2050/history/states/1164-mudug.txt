@@ -5,14 +5,15 @@ state={
 		1964 2020 4909 5065 10818 12840 12991 13525 13526 13521 13523
 	}
 	history={
-		owner = SYB
+		owner = SOM
 		buildings = {
 			infrastructure = 1
 
 		}
 		add_core_of = SYB
+		add_core_of = SOM
 	}
-	manpower=2
+	manpower=2358723
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

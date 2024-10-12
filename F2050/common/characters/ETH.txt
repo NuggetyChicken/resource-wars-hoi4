@@ -4,17 +4,17 @@ characters = {
 		name = "Derartu Tesfaye"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ETH_Derartu_Tesfaye
-				small = GFX_portrait_ETH_Derartu_Tesfaye
+				large = "GFX_ETH_Derartu_Tesfaye"
+				small = "GFX_ETH_Derartu_Tesfaye"
 			}
 			army = {
-				large = GFX_portrait_ETH_Derartu_Tesfaye
-				small = GFX_portrait_ETH_Derartu_Tesfaye
+				large = "GFX_ETH_Derartu_Tesfaye"
+				small = "GFX_ETH_Derartu_Tesfaye"
 			}
 		}
 		country_leader = {
 			ideology = National_Communism
-			expire = "1965.1.1.1"
+			expire = "2090.1.1.1"
 			traits = {  }
 			id = -1
 		}

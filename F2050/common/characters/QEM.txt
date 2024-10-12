@@ -4,12 +4,12 @@ characters = {
 		name = "Bekele"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_QEM_Bekele
-				small = GFX_portrait_QEM_Bekele
+				large = "GFX_QEM_Bekele"
+				small = "GFX_QEM_Bekele"
 			}
 			army = {
-				large = GFX_portrait_QEM_Bekele
-				small = GFX_portrait_QEM_Bekele
+				large = "GFX_QEM_Bekele"
+				small = "GFX_QEM_Bekele"
 			}
 		}
 		country_leader = {

@@ -4,12 +4,12 @@ characters = {
 		name = "Silas Gebregziabher"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_TIG_Silas_Gebregziabher
-				small = GFX_portrait_TIG_Silas_Gebregziabher
+				large = "GFX_TIG_Silas_Gebregziabher"
+				small = "GFX_TIG_Silas_Gebregziabher"
 			}
 			army = {
-				large = GFX_portrait_TIG_Silas_Gebregziabher
-				small = GFX_portrait_TIG_Silas_Gebregziabher
+				large = "GFX_TIG_Silas_Gebregziabher"
+				small = "GFX_TIG_Silas_Gebregziabher"
 			}
 		}
 		country_leader = {

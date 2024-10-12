@@ -206,8 +206,8 @@ spriteTypes = {
         texturefile = "gfx/leaders/SLO/SLO_tadeas_bosko.png"
     }
     spriteType = {
-        name = "GFX_SYM_Abdullahi_Hassan"
-        texturefile = "gfx/leaders/SMR/SYM_Abdullahi_Hassan.png"
+        name = "GFX_SMR_Abdullahi_Hassan"
+        texturefile = "gfx/leaders/SMR/SMR_Abdullahi_Hassan.png"
     }
     spriteType = {
         name = "GFX_SOM_Siad_Hussein"
@@ -245,6 +245,18 @@ spriteTypes = {
         name = "GFX_SYP_Xirsi"
         texturefile = "gfx/leaders/SYP/SYP_Xirsi.png"
     }
+		spriteType = {
+		name = GFX_DJI_Gerald_Green 
+		texturefile = gfx/leaders/DJI/DJI_Gerald_Green.png"
+	}
+		spriteType = {
+		name = "GFX_DJI_tyler_burton"
+		texturefile = "gfx/leaders/DJI/DJI_tyler_burton.png"
+	}
+		spriteType = {
+		name = "GFX_DJI_james_donald"
+		texturefile = "gfx/leaders/DJI/DJI_james_donald.png"
+	}
     spriteType = {
         name = "GFX_TIG_Silas_Gebregziabher"
         texturefile = "gfx/leaders/TIG/TIG_Silas_Gebregziabher.png"

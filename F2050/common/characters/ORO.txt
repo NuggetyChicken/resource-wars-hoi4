@@ -4,12 +4,12 @@ characters = {
 		name = "Nikolai Malashenko"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ORO_Nikolai_Malashenko
-				small = GFX_portrait_ORO_Nikolai_Malashenko
+				large = "GFX_ORO_Nikolai_Malashenko"
+				small = "GFX_ORO_Nikolai_Malashenko"
 			}
 			army = {
-				large = GFX_portrait_ORO_Nikolai_Malashenko
-				small = GFX_portrait_ORO_Nikolai_Malashenko
+				large = "GFX_ORO_Nikolai_Malashenko"
+				small = "GFX_ORO_Nikolai_Malashenko"
 			}
 		}
 		country_leader = {
@@ -32,12 +32,12 @@ characters = {
 		name = "Valerie Lebedjev"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ORO_Valerie_Lebedjev
-				small = GFX_portrait_ORO_Valerie_Lebedjev
+				large = "GFX_ORO_Valerie_Lebedjev"
+				small = "GFX_ORO_Valerie_Lebedjev"
 			}
 			army = {
-				large = GFX_portrait_ORO_Valerie_Lebedjev
-				small = GFX_portrait_ORO_Valerie_Lebedjev
+				large = "GFX_ORO_Valerie_Lebedjev"
+				small = "GFX_ORO_Valerie_Lebedjev"
 			}
 		}
 
