@@ -8,7 +8,7 @@ characters={
 			name="Jose Calderon"
 			portraits={
 				civilian={
-					large="GFX_portrait_SPR_niceto_alcala_zamora"
+					large=gfx/leaders/SPR/portrait_spr_jose_calderon.png
 				}
 			}
 			country_leader={
@@ -25,7 +25,7 @@ characters={
 			name="Jose Calderon"
 			portraits={
 				civilian={
-					large="GFX_portrait_SPR_niceto_alcala_zamora"
+					large=gfx/leaders/SPR/portrait_spr_jose_calderon.png
 				}
 			}
 			country_leader={

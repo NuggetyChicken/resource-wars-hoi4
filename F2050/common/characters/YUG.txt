@@ -104,7 +104,7 @@ characters={
 				small="GFX_idea_YUG_josip_broz_tito"
 			}
 			civilian={
-				large=GFX_portrait_YUG_josip_broz_tito
+				large=gfx/leaders/YUG/Portrait_Yugoslavia_predimir_darkovic.png
 			}
 		}
 	}

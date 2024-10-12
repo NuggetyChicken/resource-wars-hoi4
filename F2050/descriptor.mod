@@ -4,6 +4,7 @@ replace_path="common/bookmarks"
 replace_path="gfx/loadingscreens"
 replace_path="events"
 replace_path="common/ideas"
+replace_path="common/decisions"
 tags={
 	"Alternative History"
 	"Gameplay"

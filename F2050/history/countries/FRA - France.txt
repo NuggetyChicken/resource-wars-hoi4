@@ -167,45 +167,9 @@ if = {
 
 set_convoys = 300
 
-
-# DIPLOMACY
-if = {
-	limit = {
-		OR = {
-			has_dlc = "Together for Victory"
-			has_dlc = "Man the Guns"
-		}
-	}
-	set_autonomy = {
-		target = GER
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = ITA
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = SPR
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = ITA
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = BAY
-		autonomous_state = autonomy_integrated_puppet
-	}
-	else = {
-		puppet = GER
-		puppet = ITA
-	}
-}
-
-
 set_politics = {
 	ruling_party = democratic
-	last_election = "2044.5.1"
+	last_election = "2052.5.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
