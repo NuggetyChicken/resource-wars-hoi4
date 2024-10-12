@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = EST
+		controller = SOV
 		victory_points = {
 			9221 1 
 		}

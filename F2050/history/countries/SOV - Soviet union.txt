@@ -3,6 +3,10 @@
 #### NO STEP BACK
 ####
 
+declare_war_on = {
+	target = EST
+	type = annex_everything
+}
 
 #COUNTRY LEADERS
 recruit_character = SOV_vasily_kozlov

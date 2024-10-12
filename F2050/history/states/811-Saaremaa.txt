@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = EST
+		controller = SOV
 		buildings = {
 			infrastructure = 1
 		}

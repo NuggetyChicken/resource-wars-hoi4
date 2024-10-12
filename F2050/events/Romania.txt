@@ -84,6 +84,7 @@ country_event = {
 			}
 			set_global_flag = romanian_democratic_now_gf
 			SOV = { end_puppet = ROM }
+			leave_faction = yes
 		}
 	}
 

@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = EST
+		controller = SOV
 		victory_points = {
 			3174 1 #Voru
 		}
