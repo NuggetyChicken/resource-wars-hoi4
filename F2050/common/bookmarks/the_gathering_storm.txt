@@ -177,13 +177,13 @@ bookmarks = {
 			history = "CAN_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
-				CAN_great_depression_1
-				CAN_conscription_crisis
+				CAN_american_free_trade_treaty
+				CAN_the_yanks
+				CAN_the_betrayal
+				CAN_trudeau_third_mandate
 			}
 			focuses = {
-				CAN_skewer_the_eagle
-				CAN_north_american_alliance
-				CAN_join_comintern
+				CAN_identity_crisis
 			}
 		}
 		"AST"={

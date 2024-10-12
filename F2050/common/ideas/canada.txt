@@ -1,0 +1,80 @@
+ideas = {
+	country = {
+
+	CAN_america_free_trade_treaty = {
+		removal_cost = -1
+
+		available = {
+			has_government = democratic
+		}
+		
+		allowed = {
+			original_tag = CAN
+		}
+		
+		modifier = {
+			add_stability = -0.055
+			war_support_factor = 0.075
+			political_power_factor = 0.03
+        		recruitable_population	= 0.03
+        		defensive_war_stability_factor = 0.25
+				
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	CAN_the_yanks = {
+		removal_cost = -1
+
+		available = {
+			has_government = democratic
+		}
+		
+		allowed = {
+			original_tag = CAN
+		}
+		
+		modifier = {
+			war_support_factor = 0.1
+        		defensive_war_stability_factor = 0.5
+			political_power_factor = 0.05
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	CAN_the_betrayal = {
+		removal_cost = -1
+		
+		allowed = {
+			original_tag = CAN
+		}
+		
+		modifier = {
+			custom_effect_tooltip = canadabetrayal.tt
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	CAN_trudeau_third_mandate = {
+		removal_cost = -1
+		
+		allowed = {
+			original_tag = CAN
+		}
+		
+		modifier = {
+			add_stability = 0.75
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+  }
+}
