@@ -8,7 +8,7 @@ spriteTypes = {
 		noOfFrames = 18
 	}
 
-	### new tfv nat spirit icons
+	### BULGARIA ###
 
 	spriteType = {
 		name = "GFX_idea_BUL_BKP_idea"
@@ -34,7 +34,13 @@ spriteTypes = {
 		name = "GFX_idea_BUL_five_year_plan_idea_dm"
 		texturefile = "gfx/interface/ideas/BUL_five_year_plan_idea_dm.dds"
 	}
-		
-				###CANADA###
+
+	### ROMANIA ###
+	spriteType = {
+		name = "GFX_idea_ROM_petrikovshchina_idea"
+		texturefile = "gfx/interface/ideas/ROM_petrikovshchina_idea.dds"
+	}
+
+	###CANADA###
 
 }

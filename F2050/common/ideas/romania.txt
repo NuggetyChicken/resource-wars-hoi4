@@ -1,0 +1,26 @@
+ideas = {
+	country = {
+		ROM_petrikovshchina_idea = {
+			removal_cost = -1
+
+			available = {
+				original_tag = ROM
+			}
+		
+			allowed = {
+				original_tag = ROM
+			}
+		
+			modifier = {
+				stability_factor = -0.15
+				war_support_factor = -0.05
+				political_power_factor = -0.5
+				custom_modifier_tooltip = ROM_petrikovshchina_idea_tt
+			}
+		
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}

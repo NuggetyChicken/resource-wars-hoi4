@@ -79,6 +79,10 @@ ideologies = {
 				color = { 102 45 45 }
 			}
 
+			reformist_communism = { ### Reformist Communism is best!
+				color = { 160 43 76 }
+			}
+
 			Neo_Maoism = {
 				color = { 255 0 0 }
 			}

@@ -29,8 +29,8 @@ characters={
 			}
 		}
 		country_leader={
-			ideology = Left_Nationalism
-			expire="1965.1.1.1"
+			ideology = reformist_communism
+			expire="2088.1.1.1"
 			id=-1
 		}
 	}

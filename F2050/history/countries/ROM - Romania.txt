@@ -45,6 +45,10 @@ set_war_support = 0.6
 recruit_character = ROM_military_command_of_afprr
 recruit_character = ROM_corvid_petrikov
 
+add_ideas = {
+	ROM_petrikovshchina_idea
+}
+
 # Starting tech
 set_technology = {
 	tech_support = 1		
