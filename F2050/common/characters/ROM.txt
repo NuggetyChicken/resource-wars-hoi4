@@ -25,11 +25,11 @@ characters={
 		name="Corvid Petrikov"
 		portraits={
 			civilian={
-				large="gfx/leaders/ROM/ROM_corvid_petrikov.dds"
+				large="gfx/leaders/ROM/ROM_corvid_petrikov.png"
 			}
 		}
 		country_leader={
-			ideology=National_Communism
+			ideology = Left_Nationalism
 			expire="1965.1.1.1"
 			id=-1
 		}

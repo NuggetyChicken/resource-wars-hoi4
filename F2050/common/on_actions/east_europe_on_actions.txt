@@ -28,4 +28,30 @@ on_actions = {
 			}
 		}
 	}
+	on_capitulation_immediate = {
+		effect = { 
+			if = {
+				limit = {
+					ROOT = {
+						original_tag = EST
+						has_war_with = SOV
+					}
+					FROM = { original_tag = SOV }
+				}
+				every_state = {
+					limit = {
+						is_core_of = SOV
+					}
+					transfer_state_to = SOV
+				}
+				SOV ={
+					annex_country = {
+						target = EST
+					}
+					white_peace = EST
+				}	
+			}
+		}
+	}
 }
+
