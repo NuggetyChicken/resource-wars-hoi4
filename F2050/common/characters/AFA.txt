@@ -1,23 +1,23 @@
 characters = {
 
 	# MOHAMED YAYYO
-	AFA_sultan_mohamed_yayyo_of_aussa = { 
-		name = "Mohamed Yayyo"
+	AFA_habib = { 
+		name = "Habib"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_AFA_mohamed_yayyo
-				small = GFX_portrait_AFA_mohamed_yayyo_small
+				large = "GFX_AFA_habib"
+				small = "GFX_AFA_habib"
 			}
 			
 		}
 		country_leader = {
-			ideology = despotism
-			traits = { rich_sultan }
-			expire = "1944.1.1.1"
+			ideology = Facade_Democracy
+			traits = { }
+			expire = "2090.1.1.1"
 			id = -1
 		}
 		field_marshal = {
-			traits = { politically_connected irregulars_officer }
+			traits = { irregulars_officer }
 			skill = 2
 			attack_skill = 2
 			defense_skill = 2
@@ -25,12 +25,6 @@ characters = {
 			logistics_skill = 2
 			legacy_id = -1
 			visible = {
-				NOT = {
-					has_government = communism
-					has_government = democratic
-					has_government = fascism
-				}
-			}
 		}
 	}
 

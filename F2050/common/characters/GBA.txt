@@ -4,12 +4,12 @@ characters = {
 		name = "Jackson Willaims"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GBA_Jackson_Willaims
-				small = GFX_portrait_GBA_Jackson_Willaims
+				large = "GFX_GBA_Jackson_Willaims"
+				small = "GFX_GBA_Jackson_Willaims"
 			}
 			army = {
-				large = GFX_portrait_GBA_Jackson_Willaims
-				small = GFX_portrait_GBA_Jackson_Willaims
+				large = "GFX_GBA_Jackson_Willaims"
+				small = "GFX_GBA_Jackson_Willaims"
 			}
 		}
 		country_leader = {
@@ -32,12 +32,12 @@ characters = {
 		name = "Siad Hussein"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GBA_Bill_Joseph
-				small = GFX_portrait_GBA_Bill_Joseph
+				large = "GFX_GBA_Bill_Joseph"
+				small = "GFX_GBA_Bill_Joseph"
 			}
 			army = {
-				large = GFX_portrait_GBA_Bill_Joseph
-				small = GFX_portrait_GBA_Bill_Joseph
+				large = "GFX_GBA_Bill_Joseph"
+				small = "GFX_GBA_Bill_Joseph"
 			}
 		}
 		corps_commander = {

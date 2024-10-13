@@ -66,10 +66,10 @@ characters={
 	}
 
 	HUN_matyas_rakosi={
-		name=HUN_matyas_rakosi
+		name="Bogdán Mátyás"
 		portraits={
 			civilian={
-				large="GFX_Portrait_hungary_matyas_rakosi"
+				large=gfx/leaders/HUN/Portrait_Hungary_bogdan_matyas.png
 			}
 		}
 		country_leader={

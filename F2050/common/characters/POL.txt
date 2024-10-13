@@ -261,7 +261,7 @@ characters = {
 		name="Lucille Kacynski"
 		portraits = {
 			civilian = {
-				large=GFX_portrait_POL_wladyslaw_gomulka
+				large=gfx/leaders/POL/Portrait_Poland_lucille_kacynski.png
 			}
 		}
 		country_leader = {

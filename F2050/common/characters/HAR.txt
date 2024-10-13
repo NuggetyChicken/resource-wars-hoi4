@@ -4,12 +4,12 @@ characters = {
 		name = "Ismail Mahdi"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_HAR_Ismail_Mahdi
-				small = GFX_portrait_HAR_Ismail_Mahdi
+				large = "GFX_HAR_Ismail_Mahdi"
+				small = "GFX_HAR_Ismail_Mahdi"
 			}
 			army = {
-				large = GFX_portrait_HAR_Ismail_Mahdi
-				small = GFX_portrait_HAR_Ismail_Mahdi
+				large = "GFX_HAR_Ismail_Mahdi"
+				small = "GFX_HAR_Ismail_Mahdi"
 			}
 		}
 		country_leader = {

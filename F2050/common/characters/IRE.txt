@@ -1,9 +1,9 @@
 characters={
 	IRE_Éamon_de_valera={
-		name="Éamon de Valera"
+		name="Zach Fitzgerald"
 		portraits={
 			civilian={
-				large=GFX_portrait_Eamon_de_Valera
+				large=gfx/leaders/IRE/Portrait_Ireland_Zach_Fitzgerald.png
 			}
 		}
 		country_leader={

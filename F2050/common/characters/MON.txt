@@ -3,7 +3,7 @@ characters={
 		name="Arkhai Khasar"
 		portraits={
 			civilian={
-				large="GFX_portrait_mon_anandyn_amar"
+				large=gfx/leaders/MON/portrait_mon_Arkhai_Khasar.png
 			}
 		}
 		country_leader={

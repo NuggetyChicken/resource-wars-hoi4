@@ -5,8 +5,8 @@ characters = {
 		name = "Mahad Horseed"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ASB_Mahad_Horseed
-				small = GFX_portrait_ASB_Mahad_Horseed
+				large = "GFX_ASB_Mahad_Horseed"
+				small = "GFX_ASB_Mahad_Horseed"
 			}
 			
 		}
@@ -31,12 +31,12 @@ characters = {
 		name = "Yusuf Osman"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ASB_Yusuf_Osman
-				small = GFX_portrait_ASB_Yusuf_Osman
+				large = "GFX_ASB_Yusuf_Osman"
+				small = "GFX_ASB_Yusuf_Osman"
 			}
 			army = {
-				large = GFX_portrait_ASB_Yusuf_Osman
-				small = GFX_portrait_ASB_Yusuf_Osman
+				large = "GFX_ASB_Yusuf_Osman"
+				small = "GFX_ASB_Yusuf_Osman"
 			}
 		}
 

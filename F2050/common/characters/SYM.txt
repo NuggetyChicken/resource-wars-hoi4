@@ -4,8 +4,8 @@ characters = {
 		name = "Abdullahi Hassan"
 		portraits = {
 			civilian = {
-				large = GFX_portrait_SYM_Abdullahi_Hassan
-				small = GFX_portrait_SYM_Abdullahi_Hassan
+				large = "GFX_SYM_Abdullahi_Hassan"
+				small = "GFX_SYM_Abdullahi_Hassan"
 			}
 			
 		}
