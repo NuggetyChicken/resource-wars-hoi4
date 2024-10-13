@@ -52,13 +52,13 @@ characters={
 	}
 
 	CZE_klement_gottwald={
-		name="Raven Ilyina"
+		name="Corvid Petrikov"
 		portraits={
 			army={
 				small=GFX_portrait_CZE_klement_gottwald_small
 			}
 			civilian={
-				large=GFX_portrait_CZE_klement_gottwald
+				large=gfx/leaders/CZE/CZE_corvid_petrikov.png
 			}
 		}
 		advisor={
