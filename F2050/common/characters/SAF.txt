@@ -76,7 +76,7 @@ characters={
 		name="Jay Iffer-Harley"
 		portraits={
 			civilian={
-				large=gfx/leaders/SAF/Portrait_SouthAfrica_jay_iffer.png
+				large=GFX_portrait_SAF_jan_smuts
 			}
 		}
 		country_leader={

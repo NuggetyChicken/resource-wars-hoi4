@@ -1,0 +1,43 @@
+add_namespace = nf_canada
+
+country_event = { # Starting Event
+	id = nf_canada.1
+	title = nf_canada_1_title
+	desc = nf_canada_1_desc
+	#picture = GFX_report_event_nf_canada_starting
+
+	fire_only_once = yes
+
+	option = {
+		name = nf_canada_1_a
+		
+	}
+}
+
+country_event = { # Reduce, Reuse, Recycle
+	id = nf_canada.2
+	title = nf_canada_2_title
+	desc = nf_canada_2_desc
+	#picture = GFX_report_event_nf_canada_starting
+
+	fire_only_once = yes
+
+	option = {
+		name = nf_canada_2_a
+		
+	}
+}
+
+country_event = { # Real Event
+	id = nf_canada.3
+	title = nf_canada_3_title
+	desc = nf_canada_3_desc
+	#picture = GFX_report_event_nf_canada_starting
+
+	fire_only_once = yes
+
+	option = {
+		name = nf_canada_3_a
+		
+	}
+}

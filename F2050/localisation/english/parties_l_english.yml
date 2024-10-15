@@ -14,7 +14,7 @@
  neutrality_noun:0 "Non-Aligned"
  neutrality_desc:0 "Authoritarian Regime"
  Neo_Liberalism:0 "Neo-Liberalism"
- Neo_Liberalism_desc:0 ""
+ Neo_Liberalism_desc:0 "Originating in the early 20th century, Neo-Liberalism is an ideology that had arisen in response to the Great Depression, advocating for a variety of changes to the Classical Liberalism focused namely around addressing the volatility of the Free Market through privatization, deregulation, globalization and free trade, centered around completely removing any issues which could hamper trade and continuing the growth of an economy, especially focused around keeping activity growing instead of shrinking.\n\nHaving gained a negative connotation over the previous few decades, the term has become closely associated with the left-wing, namely by Conservative organizations, especially in the United States and Canada, with many people associating it with liberal social policies involving immigration, rights and gender, among a variety of other issues."
  
  Social_Democracy:0 "Social Democracy"
  Social_Democract_desc:0 ""
@@ -76,3 +76,12 @@
  ROM_democratic_party:1 "NPPR"
  ROM_democratic_party_long:1 "National Progressive Party of Romania"
  ROM_fascism_party:0 "Noii legionari"
+ 
+ CAN_neutrality_party:0 "CPC"
+ CAN_neutrality_party_long:0 "Conservative Party of Canada"
+ CAN_communism_party:0 "NDP"
+ CAN_communism_party_long:0 "New Democratic Party"
+ CAN_democratic_party:0 "LPC"
+ CAN_democratic_party_long:0 "Liberal Party of Canada"
+ CAN_fascism_party:0 "PPC"
+ CAN_fascism_party_long:0 "People's Party of Canada"
