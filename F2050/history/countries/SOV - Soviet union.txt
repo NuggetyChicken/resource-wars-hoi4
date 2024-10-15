@@ -906,10 +906,8 @@ set_popularities = {
 	communism = 88
 }
 
-create_faction = Comintern
+create_faction = Eurasia_Collective_Security_Treaty_faction
 add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
 
 if = {
 	limit = {

@@ -47,6 +47,8 @@ recruit_character = ROM_corvid_petrikov
 
 add_ideas = {
 	ROM_petrikovshchina_idea
+	ROM_iron_guard_idea
+	ROM_generatia_egalitatii
 }
 
 # Starting tech
@@ -109,7 +111,7 @@ set_politics = {
 	ruling_party = communism
 	last_election = "2045.3.31"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	democratic = 25

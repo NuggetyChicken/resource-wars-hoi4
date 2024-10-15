@@ -28,6 +28,8 @@ BUL_reduce_fuel_consumption_focus:0 "Reduce fuel consumption"
 BUL_reduce_fuel_consumption_focus_desc:0 "We spend too much oil on the needs of the people and the public purse. We need to reduce oil consumption in Bulgaria."
 BUL_great_economy_focus:0 "Great Economy"
 BUL_great_economy_focus_desc:0 "Our economy has improved many times over and now we can call ourselves a “Great Economy” even if it's not true!"
+BUL_diminishing_soviet_influence_focus:0 "Diminishing Soviet Influence"
+BUL_diminishing_soviet_influence_focus_desc:0 "Time to reduce the USSR's influence on us, although our government is only holding on to support from the USSR, we need to get back on our feet."
 
 ### TRAITS ###
 BUL_butcher_trait:0 "§tButcher§!" 
@@ -43,6 +45,11 @@ BUL_five_year_plan_idea_dm_desc:0 "The Five-Year Plan is a creation of planned e
 BUL_nuclear_power_plant_decision_category:0 "Nuclear Power Plant"
 BUL_nuclear_power_plant_decision_category_desc:0 "Expanding nuclear energy production is crucial for our future. Building additional nuclear power plants will not only boost our energy output but also strengthen our economy and enhance our influence in the energy sector. This investment in nuclear infrastructure will pave the way for sustainable growth and energy independence."
 BUL_build_nuclear_power_plant_decision:0 "Build a §4nuclear power plant§! in §6[FROM.GetName]§!"
+
+### TOOLTIPS ###
+BUL_traitors_everywhere_focus_tt:0 "§tThe whole Bulgaria is full of traitors, despicable creatures with no right to life and existence.... and therefore it is important to eradicate the contagion before it spreads to the whole of our homeland....§!"
+bulgaria.4.a.tt:0 "§tIt's time to cleanse Bulgaria, as our leader wishes us to do. And it is our duty to make their last minutes as painful as possible...§!"
+bulgaria.3.a.tt:0 "§4And I dream that some day...§! §tthe world will be mine.§!"
 
 ### IDEAS ###
 BUL_BKP_idea:0 "§tBŭlgarska Komunisticheska Partiya§!"

@@ -40,6 +40,10 @@ spriteTypes = {
 		name = "GFX_idea_ROM_petrikovshchina_idea"
 		texturefile = "gfx/interface/ideas/ROM_petrikovshchina_idea.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_ROM_iron_guard_idea"
+		texturefile = "gfx/interface/ideas/ROM_iron_guard_idea.dds"
+	}
 
 	###CANADA###
 

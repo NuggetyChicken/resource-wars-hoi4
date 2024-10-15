@@ -629,4 +629,192 @@ focus_tree = {
 			}
 		}
 	}
+	### POLITICS ###
+	focus = {
+		id = BUL_diminishing_soviet_influence_focus
+		icon = GFX_goal_BUL_diminishing_soviet_influence_focus
+		x = 4
+		y = 2
+		prerequisite = {
+			focus = BUL_carry_out_agricultural_reform_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			add_stability = 0.05
+			add_autonomy_ratio = {
+				value = 0.2
+			}
+		}
+	}
+	focus = {
+		id = BUL_keeping_eye_on_the_people_focus
+		icon = GFX_goal_BUL_keeping_eye_on_the_people_focus
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = BUL_diminishing_soviet_influence_focus
+		}
+		relative_position_id = BUL_diminishing_soviet_influence_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			add_stability = -0.02
+			create_intelligence_agency = {
+				name = "Durzhavna Sigurnost"
+				icon = GFX_intelligence_agency_logo_BUL_ds
+			}
+		}
+	}
+	focus = {
+		id = BUL_dreams_of_bulgarian_communism_focus
+		icon = GFX_goal_BUL_dreams_of_bulgarian_communism_focus
+		x = -1
+		y = 2
+		prerequisite = {
+			focus = BUL_keeping_eye_on_the_people_focus
+		}
+		relative_position_id = BUL_diminishing_soviet_influence_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+	
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			add_stability = 0.05
+			country_event = bulgaria.3
+			add_ideas = BUL_dreams_of_bulgarian_communism_idea
+		}
+	}
+	focus = {
+		id = BUL_suppress_different_thinking_focus
+		icon = GFX_goal_BUL_suppress_different_thinking_focus
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = BUL_diminishing_soviet_influence_focus
+		}
+		relative_position_id = BUL_diminishing_soviet_influence_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+			has_intelligence_agency = yes
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			add_stability = -0.03
+			every_state = {
+				limit = {
+					is_owned_by = BUL
+				}
+				add_manpower = -8000
+			}
+		}
+	}
+	focus = {
+		id = BUL_traitors_everywhere_focus
+		icon = GFX_goal_BUL_traitors_everywhere_focus
+		x = 1
+		y = 2
+		prerequisite = {
+			focus = BUL_diminishing_soviet_influence_focus
+		}
+		relative_position_id = BUL_diminishing_soviet_influence_focus
+	
+		cost = 4
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			custom_effect_tooltip = BUL_traitors_everywhere_focus_tt
+			country_event = bulgaria.4
+			add_stability = -0.08
+		}
+	}
 }

@@ -57,6 +57,10 @@ spriteTypes = {
 		name = "GFX_goal_BUL_great_economy_focus"
 		textureFile = "gfx/interface/goals/BUL_great_economy_focus.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_BUL_diminishing_soviet_influence_focus"
+		textureFile = "gfx/interface/goals/BUL_diminishing_soviet_influence_focus.dds"
+	}
 	###CANADA#####
 	spriteType = {
 		name = "GFX_idea_CAN_identity_crisis"
