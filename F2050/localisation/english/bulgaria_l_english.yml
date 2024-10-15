@@ -49,7 +49,7 @@ BUL_build_nuclear_power_plant_decision:0 "Build a §4nuclear power plant§! in �
 ### TOOLTIPS ###
 BUL_traitors_everywhere_focus_tt:0 "§tThe whole Bulgaria is full of traitors, despicable creatures with no right to life and existence.... and therefore it is important to eradicate the contagion before it spreads to the whole of our homeland....§!"
 bulgaria.4.a.tt:0 "§tIt's time to cleanse Bulgaria, as our leader wishes us to do. And it is our duty to make their last minutes as painful as possible...§!"
-bulgaria.3.a.tt:0 "§4And I dream that some day...§! §tthe world will be mine.§!"
+bulgaria.3.a.tt:0 "§4I dream that some day...§! §tthe world will be purified.§!"
 
 ### IDEAS ###
 BUL_BKP_idea:0 "§tBŭlgarska Komunisticheska Partiya§!"
@@ -69,3 +69,6 @@ bulgaria.1.a:0 "Everything's going according to plan, almost everything"
 bulgaria.2.t:0 "Agricultural reform"
 bulgaria.2.d:0 "The socialist government of Bulgaria took decisive action to address the nation's agricultural crisis by distributing modern machinery and technology to farming regions across the country. While this initiative did not fully resolve the agricultural issues, it significantly alleviated the crisis and improved productivity. Today, a variety of popular products have begun to reappear on store shelves in the cities, while trucks are once again delivering goods to the rural areas. This marks a significant step towards revitalizing the agricultural sector and ensuring food security for all Bulgarians."
 bulgaria.2.a:0 "Eat while you can"
+
+bulgaria.3.t:0 "Bulgarian Dream"
+bulgaria.3.d:0 "Ferdinand, a young officer in the Bulgarian People's Army, stood before the office door of Nikul Vasilev, the leader of the Bulgarian People's Republic. One autumn day, Ferdinand was astonished to receive an appointment to a position of great significance, a role he felt ill-equipped to fill. As a simple officer, he questioned the rationale behind his selection. \n\nEntering the room, Ferdinand found Nikul seated at a leather desk, engrossed in writing. As Nikul looked up, a warm smile spread across his face. Their conversation proceeded as usual until Nikul posed a thought-provoking question: "Ferdinand, what do you believe is my ultimate goal? Of course, the establishment of a Great Bulgarian Communism is paramount, but I seek a more concrete answer... What is my dream? My aspiration?" \n\nFerdinand, uncertain of the correct response, remained silent. Nikul waited patiently, then, with a radiant smile, declared, "I yearn to leave an indelible mark on history. I want to be remembered even after the cataclysm of nuclear war, the end of the world. And the means by which I shall achieve this immortality, you will soon discover.""
