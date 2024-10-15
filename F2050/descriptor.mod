@@ -11,7 +11,5 @@ tags={
 	"Map"
 	"Graphics"
 }
-picture="thumbnail.png"
-name="Fallout: War Never Changes"
+name="pre-war sex"
 supported_version="1.14.9"
-remote_file_id="3343104133"

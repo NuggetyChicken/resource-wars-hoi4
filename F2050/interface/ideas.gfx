@@ -46,5 +46,44 @@ spriteTypes = {
 	}
 
 	###CANADA###
+	spriteType = {
+		name = "GFX_idea_CAN_albertan_oil"
+		texturefile = "gfx/interface/ideas/CAN_albertan_oil.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_avro_arrow"
+		texturefile = "gfx/interface/ideas/CAN_avro_arrow.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_canadian_split"
+		texturefile = "gfx/interface/ideas/CAN_canadian_split.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_rip_minister"
+		texturefile = "gfx/interface/ideas/CAN_rip_minister.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_trudeau_identity"
+		texturefile = "gfx/interface/ideas/CAN_trudeau_identity.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_wooden_toys"
+		texturefile = "gfx/interface/ideas/CAN_wooden_toys.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_steal_guns"
+		texturefile = "gfx/interface/ideas/CAN_steal_guns.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CAN_recycling_bin"
+		texturefile = "gfx/interface/ideas/CAN_recycling_bin.dds"
+	}
 
 }
