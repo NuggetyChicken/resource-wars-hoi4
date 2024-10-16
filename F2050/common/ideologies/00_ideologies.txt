@@ -15,6 +15,10 @@ ideologies = {
 			Social_Democract = {
 				color = { 247 148 115 }
 			}
+			
+			reformist_communism_democratic = { ### More Radical-Democratic verison of Reformist Communism
+				color = { 160 43 76 }
+			}
 
 			Neo_Nativism = {
 				color = { 150 118 78 }

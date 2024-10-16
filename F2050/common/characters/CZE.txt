@@ -52,7 +52,7 @@ characters={
 	}
 
 	CZE_klement_gottwald={
-		name="Corvid Petrikov"
+		name="Krähe Sandfarben"
 		portraits={
 			army={
 				small=GFX_portrait_CZE_klement_gottwald_small

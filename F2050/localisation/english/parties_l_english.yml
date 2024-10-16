@@ -85,3 +85,12 @@
  CAN_democratic_party_long:0 "Liberal Party of Canada"
  CAN_fascism_party:0 "PPC"
  CAN_fascism_party_long:0 "People's Party of Canada"
+
+ DDR_neutrality_party:0 "TMP"
+ DDR_neutrality_party_long:0 "Traditionalistische Monarchistenpartei"
+ DDR_communism_party:0 "RKED"
+ DDR_communism_party_long:0 "Reformierte Kommunistische Einheitspartei Deutschlands"
+ DDR_democratic_party:0 "PSR"
+ DDR_democratic_party_long:0 "Partei für Sozialistische Reformen"
+ DDR_fascism_party:0 "RPOD"
+ DDR_fascism_party_long:0 "Republikanische Partei Ostdeutschlands"

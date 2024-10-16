@@ -1,4 +1,7 @@
 ﻿capital = 9
+1952.1.1 = {
+set_cosmetic_tag = CZE_ONLY_communism
+}
 
 if = {
 	limit = {

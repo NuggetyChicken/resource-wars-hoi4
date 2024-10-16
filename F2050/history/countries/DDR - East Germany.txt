@@ -124,13 +124,13 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Jake Richter"
+	name = "Niko Werkner"
 	desc = ""
-	picture = GFX_portrait_Jake_Richter
+	picture = gfx/leaders/GER/Portrait_Germany_Niko_Werkner.png
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = reformist_communism_democratic
 	traits = {
-		political_dancer		
+				
 	}
 }
 
@@ -144,6 +144,29 @@ create_country_leader = {
 		
 	}
 }
+
+create_country_leader = {
+	name = "Kaspar Göring"
+	desc = ""	 
+	picture = gfx/leaders/GER/Portrait_Germany_Kaspar_Göring.png
+	expire = "1965.1.1"
+	ideology = Oligarchism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Rolf Schildhauer"
+	desc = ""	 
+	picture = gfx/leaders/GER/Portrait_Germany_Rolf_Schildhauer.png
+	expire = "1965.1.1"
+	ideology = Militarism
+	traits = {
+		
+	}
+}
+
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

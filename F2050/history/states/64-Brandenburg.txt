@@ -4,7 +4,7 @@ state={
 	name="STATE_64"
 
 	history={
-		owner = FRA
+		owner = WSB
 		victory_points = {
 			6521 50 
 		}
@@ -16,6 +16,9 @@ state={
 
 		}
 		add_core_of = GER
+		add_core_of = DDR
+		add_core_of = WGR
+		add_core_of = WSB
 		2900.1.1 = {
 			buildings = {
 				anti_air_building = 5
