@@ -1,0 +1,30 @@
+﻿l_english:
+#FOCUS
+    #RKED SIDE OF THE STARTER FOCUS
+    DDR_ottos_actual_plan:0 "The RKED,"
+    DDR_ottos_actual_plan_desc:0 "The RKED is the current ruling party, which stems from the military coup that occured in 2050. The RKED calls for a return to pre-1990 East German society, and for the end of the century long humiliation of the two Germanies."
+    DDR_an_authoritarian_army:0 "Controlling the State"
+    DDR_an_authoritarian_army_desc:0 "The National Army should have more say on what goes inside of the Volkskammer, and in German society. We need the militarization of society to ensure our future victory in any wars againist the west. Who knows when we can retake the west back from the evil capitalists."
+    DDR_a_lighter_hand:0 "An Lighter Hold"
+    DDR_a_lighter_hand_desc:0 "The National Army shouldn't control too much of the aspects of the state, only controlling those that need to be directly controlled. The Volkskammer should be allowed to host it's own elections, but the popular votes must be squashed out of East Germany. The people of East Germany cannot be trusted to make their own laws."
+    DDR_the_mantle_of_ulbricht:0 "The Mantle of Ulbricht"
+    DDR_the_mantle_of_ulbricht_desc:0 "Walter Ulbricht's 'Aufbau des Sozialismus' was a massive win in rebuilding East Germany after the end of World War Two, We believe that we can use this as a way to reindustrialize the East German populace, to produce the output of more technological advances. With this East Germany will be able to save itself from the economic disaster that occured from the hardliner's takeover in Moscow."
+    
+    #MONARCHIST SIDE OF THE STARTER FOCUS
+    DDR_the_old_monarchy:0 "The Old Monarchy,"
+    DDR_the_old_monarchy_desc:0 "The Traditional Monarchist Party calls for a return to the now over a century old traditions, seeking to find the heir to the German Throne and return Germany to it's glory days."
+    
+    #PSR SIDE OF THE STARTER FOCUS
+    DDR_the_new_reformists:0 "And the Reformists."
+    DDR_the_new_reformists_desc:0 "The Party for Socialist Reforms, or the PSR is an merger of the old pre-hardliner coup ruling party PDS(Party Of Democratic Socialism), and the Labour and Social Justice party. When this party formed, the state of East Germany was in the hands of Sabine Bergmann-Pohl, who oversaw the 1997 Elections. Now the PSR has many issues to face, espically after their last leader was killed in the Hardliner coup of 2050."
+#EVENTS
+    DDR.1.t:0 ""
+    DDR.1.d:0 ""
+    DDR.1.a:0 ""
+    DDR.1.b:0 ""
+
+#National Spirits
+ DDR_second_soviet_thaw:0 "Soviet Stagnation"
+ DDR_second_soviet_thaw_desc:0 "After the hardliners took over in Moscow, the Soviet Union's economy drastically took a hit with the Eastern Bloc experiencing it more harshly then those in the USSR. This stagnation doesn't help with our current situation with the military junta that is currently in-charge of East Germany, and the protests againist that same junta."
+ DDR_century_humiliation:0 "The Century Long Humiliation"
+ DDR_century_humiliation_desc:0 "Germany has been humiliated for an entire century at this point, with it nearly ending this humiliation in 1989, only for the west to end those dreams of unification and for the talks of reunification dying out by 1991. When the NVA took over, they we're able to convince the common man that one day, East Germany will march west and begin the reunification wars."
