@@ -4,7 +4,7 @@ focus_tree = {
 	country = {
 		factor = 0
 		modifier = {
-			add = 100
+			add = 999
 			tag = CAN
 		}
 	}
@@ -26,7 +26,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -66,7 +69,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -114,7 +120,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -159,7 +168,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -186,7 +198,7 @@ focus_tree = {
 			hidden_effect = {
 				remove_ideas = CAN_wooden_toys
 				remove_ideas = CAN_gun_seizure
-				add_ideas = CAN_reduce_reuse
+				add_ideas = CAN_reduce_reuse1
 			}
 		}
 	}
@@ -206,7 +218,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -249,7 +264,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -298,7 +316,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -345,7 +366,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
@@ -396,7 +420,10 @@ focus_tree = {
 		}
 	
 		available = {
-	
+			NOT = {
+				has_country_flag = canada_trudeau_phakked
+				has_country_flag = canada_trudeau_semi_phakked
+			}
 		}
 	
 		bypass = {
