@@ -28,3 +28,6 @@ BUL_nuclear_power_plant_decision_category = {
 		}
 	}
 }
+BUL_democratic_rebelions_decision_category = {
+	
+}

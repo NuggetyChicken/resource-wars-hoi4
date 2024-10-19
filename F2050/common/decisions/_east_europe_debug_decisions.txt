@@ -13,4 +13,24 @@ east_europe_debug_decisions = {
 			ROM = { country_event = romania_revolt.1 }
 		}
 	}
+	ee_debug_start_bulgarian_democracy_decision = {
+		priority = 50
+		allowed = {
+			original_tag = BUL
+		}
+
+		visible = {
+			always = yes
+		}
+
+		complete_effect = {
+			BUL = {
+				load_focus_tree = BUL_freedom_tree
+				set_politics = {
+					ruling_party = democratic
+				}
+				complete_national_focus = BUL_freebul_free_bulgaria_focus
+			}
+		}
+	}
 }

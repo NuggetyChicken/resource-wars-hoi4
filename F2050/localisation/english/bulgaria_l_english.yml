@@ -1,5 +1,6 @@
 ﻿l_english:
 ### FOCUSES ###
+# Starting tree
 BUL_the_great_rule_of_bulgaria_focus:0 "The Great Rule of §tPRB§!"
 BUL_the_great_rule_of_bulgaria_focus_desc:0 "The Great People's Republic of Bulgaria continues to defend the ideas of communism within the country!"
 BUL_carry_out_agricultural_reform_focus:0 "Carry out agricultural reform"
@@ -31,9 +32,20 @@ BUL_great_economy_focus_desc:0 "Our economy has improved many times over and now
 BUL_diminishing_soviet_influence_focus:0 "Diminishing Soviet Influence"
 BUL_diminishing_soviet_influence_focus_desc:0 "Time to reduce the USSR's influence on us, although our government is only holding on to support from the USSR, we need to get back on our feet."
 
+# Freedom path
+BUL_freebul_free_bulgaria_focus:0 "§4Free Bulgaria!§!"
+BUL_freebul_free_bulgaria_focus_desc:0 "Bulgaria is free at last! Free from tyranny and terror! \n\nDictaturam mors, libertas gloria!"
+
 ### TRAITS ###
 BUL_butcher_trait:0 "§tButcher§!" 
 BUL_paranoid_trait:0 "§tParanoid§!"
+
+### SCRIPTED TEXT ###
+BUL_drsg_sofia_region_sl_text_loc:0 "Control level of the §6Sofia§! region: [?BUL_drsg_sofia_region_vv|+0]"
+BUL_drsg_plovdiv_region_sl_text_loc:0 "Control level of the §6Plovdiv§! region: [?BUL_drsg_plovdiv_region_vv|+0]"
+BUL_drsg_pleven_region_sl_text_loc:0 "Control level of the §6Pleven§! region: [?BUL_drsg_pleven_region_vv|+0]"
+BUL_drsg_varna_region_sl_text_loc:0 "Control level of the §6Varna§! region: [?BUL_drsg_varna_region_vv|+0]"
+BUL_drsg_burgas_region_sl_text_loc:0 "Control level of the §6Burgas§! region: [?BUL_drsg_burgas_region_vv|+0]"
 
 ### DYNAMIC MODIFIERS ###
 BUL_nuclear_power_plant_dm:0 "Nuclear Power Plant"
@@ -50,6 +62,7 @@ BUL_build_nuclear_power_plant_decision:0 "Build a §4nuclear power plant§! in �
 BUL_traitors_everywhere_focus_tt:0 "§tThe whole Bulgaria is full of traitors, despicable creatures with no right to life and existence.... and therefore it is important to eradicate the contagion before it spreads to the whole of our homeland....§!"
 bulgaria.4.a.tt:0 "§tIt's time to cleanse Bulgaria, as our leader wishes us to do. And it is our duty to make their last minutes as painful as possible...§!"
 bulgaria.3.a.tt:0 "§4I dream that some day...§! §tthe world will be purified.§!"
+BUL_freebul_free_bulgaria_focus_tt:0 "§4Bulgaria is free!§!"
 
 ### IDEAS ###
 BUL_BKP_idea:0 "§tBŭlgarska Komunisticheska Partiya§!"

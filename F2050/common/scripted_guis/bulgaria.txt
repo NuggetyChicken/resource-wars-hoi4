@@ -1,0 +1,37 @@
+scripted_gui = {
+	BUL_democratic_rebelions_scripted_gui = {
+	
+		context_type = decision_category
+		
+		window_name = "BUL_democratic_rebelions_scripted_gui_window"
+
+		visible = {
+			original_tag = BUL
+			has_country_flag = BUL_democratic_rebelions_mechanics_cf
+		}
+
+		effects = {
+		}
+
+		triggers = {
+		}
+
+		properties = {
+			BUL_drsg_sofia_region_sl = {
+				image = "[BUL_drsg_sofia_region_sl]"
+			}
+			BUL_drsg_plovdiv_region_sl = {
+				image = "[BUL_drsg_plovdiv_region_sl]"
+			}
+			BUL_drsg_pleven_region_sl = {
+				image = "[BUL_drsg_pleven_region_sl]"
+			}
+			BUL_drsg_varna_region_sl = {
+				image = "[BUL_drsg_varna_region_sl]"
+			}
+			BUL_drsg_burgas_region_sl = {
+				image = "[BUL_drsg_burgas_region_sl]"
+			}
+		}
+	}
+}

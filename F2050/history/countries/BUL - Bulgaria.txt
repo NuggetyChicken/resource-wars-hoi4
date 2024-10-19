@@ -48,6 +48,29 @@ add_ideas = {
 	BUL_agricultural_crisis_1_idea
 }
 
+set_country_flag = BUL_democratic_rebelions_mechanics_cf
+
+set_variable = {
+	var = BUL_drsg_sofia_region_vv
+	value = 6
+}
+set_variable = {
+	var = BUL_drsg_plovdiv_region_vv
+	value = 1
+}
+set_variable = {
+	var = BUL_drsg_pleven_region_vv
+	value = 8
+}
+set_variable = {
+	var = BUL_drsg_varna_region_vv
+	value = 7
+}
+set_variable = {
+	var = BUL_drsg_burgas_region_vv
+	value = 4
+}
+
 set_politics = {
 	ruling_party = communism
 	last_election = "2023.7.2"

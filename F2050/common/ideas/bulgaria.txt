@@ -151,5 +151,27 @@ ideas = {
 				factor = 1
 			}
 		}
+		BUL_dreams_of_bulgarian_communism_idea = {
+			removal_cost = -1
+
+			available = {
+				has_government = communism
+			}
+		
+			allowed = {
+				original_tag = BUL
+			}
+		
+			modifier = {		
+				drift_defence_factor = 0.25
+				stability_weekly_factor = 0.1
+				war_support_weekly = 0.1
+				breakthrough_factor = 0.15
+			}
+		
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	}
 }
