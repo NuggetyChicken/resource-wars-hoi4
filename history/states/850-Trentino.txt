@@ -1,0 +1,29 @@
+
+state={
+	id=850
+	name="STATE_850"
+
+	history={
+		victory_points = {
+			9598 1 
+		}
+		owner = EUC
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EUC
+		add_core_of = ITA
+		add_core_of = LBV
+		add_claim_by = AUS
+
+	}
+
+	provinces={
+		656 6631 9598 11598 
+	}
+	manpower=370739
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
