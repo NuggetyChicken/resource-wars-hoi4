@@ -4,11 +4,12 @@ state={
 	name="STATE_552"
 
 	history={
-		owner = PAL
+		owner = UAR
 		buildings = {
 			infrastructure = 0
 
 		}
+		add_core_of = UAR
 		add_core_of = EGY
 
 	}

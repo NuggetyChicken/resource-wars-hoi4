@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = EUC
 		victory_points = {
 			11435 1 
 		}
@@ -20,12 +20,9 @@ state={
 			industrial_complex = 2
 
 		}
+		add_core_of = EUC
 		add_core_of = GER
-		set_demilitarized_zone = yes
-		1936.3.7 = {
-			set_demilitarized_zone = no
-
-		}
+		
 		2900.1.1 = {
 			buildings = {
 				synthetic_refinery = 3

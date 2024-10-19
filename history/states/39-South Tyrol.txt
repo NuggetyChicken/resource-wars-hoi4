@@ -10,15 +10,16 @@ state={
 		victory_points = {
 			11598 1 
 		}
-		owner = FRA
+		owner = EUC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 
 		}
+		add_core_of = EUC
 		add_core_of = ITA
 		add_core_of = LBV
-		add_claim_by = AUS
+		
 
 	}
 

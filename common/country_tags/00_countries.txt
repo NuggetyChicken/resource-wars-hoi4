@@ -278,5 +278,8 @@ NAH = "countries/Nahua.txt"
 IAS = "countries/Isthmo Amerindia.txt"
 
 #F2050
+
 IND = "countries/Chinese Indochina.txt"
 WSB = "countries/West Berlin.txt"
+EUC = "countries/European Commonwealth.txt"
+UAR = "countries/United Arab Republic.txt"

@@ -1,0 +1,22 @@
+spriteTypes = {
+	spriteType = {
+		name = "BUL_drsg_sofia_region_sl_COMMUNIST"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_sofia_region_sl_COMMUNIST.dds"
+	}
+	spriteType = {
+		name = "BUL_drsg_plovdiv_region_sl_COMMUNIST"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_plovdiv_region_sl_COMMUNIST.dds"
+	}
+	spriteType = {
+		name = "BUL_drsg_pleven_region_sl_COMMUNIST"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_pleven_region_sl_COMMUNIST.dds"
+	}
+	spriteType = {
+		name = "BUL_drsg_varna_region_sl_COMMUNIST"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_varna_region_sl_COMMUNIST.dds"
+	}
+	spriteType = {
+		name = "BUL_drsg_burgas_region_sl_COMMUNIST"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_burgas_region_sl_COMMUNIST.dds"
+	}
+}

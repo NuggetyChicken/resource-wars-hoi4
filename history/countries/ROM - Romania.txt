@@ -44,6 +44,7 @@ set_war_support = 0.6
 
 recruit_character = ROM_military_command_of_afprr
 recruit_character = ROM_corvid_petrikov
+recruit_character = ROM_cristofor_ionescu
 
 add_ideas = {
 	ROM_petrikovshchina_idea
@@ -114,10 +115,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	fascism = 11
-	communism = 44
-	neutrality = 20
+	democratic = 22
+	fascism = 24
+	communism = 32
+	neutrality = 22
 }
 
 ### VARIANTS ###

@@ -7,17 +7,50 @@ characters={
 			}
 		}
 	}
-	ROM_gheorghe_tatarescu={
-		name=ROM_gheorghe_tatarescu
+	ROM_cristofor_ionescu={
+		name="Cristofor Ionescu"
 		portraits={
 			civilian={
-				large="GFX_Portrait_romania_gheorghe_tatarescu"
+				large="gfx/leaders/ROM/ROM_cristofor_ionescu.png"
+				small="gfx/interface/ministers/ROM/ROM_cristofor_ionescu_small.png"
+			}
+			army = {
+				large="gfx/leaders/ROM/ROM_cristofor_ionescu.png"
+				small="gfx/interface/ministers/ROM/ROM_cristofor_ionescu_small.png"
 			}
 		}
 		country_leader={
-			ideology=conservatism
-			expire="1965.1.1.1"
+			ideology = Neo_Legionarism
+			expire="2088.1.1.2"
 			id=-1
+			traits = {
+				dictator
+			}
+		}
+		corps_commander={
+			traits={ infantry_leader infantry_expert hill_fighter }
+			skill=4
+			attack_skill=5
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=-1
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = ROM_cristofor_ionescu
+			available = {
+				has_idea = ROM_iron_guard_idea
+			}
+			allowed = {
+				original_tag = ROM
+			}
+			traits = {
+				fascist_demagogue 
+			}
+			ai_will_do = {
+				factor = 0.000
+			}
 		}
 	}
 

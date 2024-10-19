@@ -9,7 +9,7 @@ state=
 	
 	history= {
 		add_core_of = SUD
-		owner = PAL
+		owner = UAR
 		buildings = {
 			infrastructure = 0
 		}

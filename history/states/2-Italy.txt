@@ -4,7 +4,7 @@ state={
 	name="STATE_2"
 
 	history={
-		owner = FRA
+		owner = EUC
 		victory_points = {
 			9904 40 
 		}
@@ -28,6 +28,7 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = PAP
+		add_core_of = EUC
 		2900.1.1 = {
 			buildings = {
 				arms_factory = 2

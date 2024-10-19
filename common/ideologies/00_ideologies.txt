@@ -180,6 +180,10 @@ ideologies = {
 			nationalist = {
 				color = { 79 42 0 }
 			}
+
+			Neo_Legionarism = {
+				color = { 17 137 89 }
+			}
 		}
 
 		dynamic_faction_names = {

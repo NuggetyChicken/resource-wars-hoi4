@@ -3,7 +3,7 @@ state={
 	name="STATE_970"
 
 	history={
-		owner = FRA
+		owner = EUC
 		victory_points = {
 			6469 10 
 		}
@@ -13,6 +13,7 @@ state={
 			industrial_complex = 2
 
 		}
+		add_core_of = EUC
 		add_core_of = GER
 
 		set_demilitarized_zone = yes

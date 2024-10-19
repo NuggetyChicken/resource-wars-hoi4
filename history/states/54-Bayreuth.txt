@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = FRA
+		owner = EUC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -15,6 +15,7 @@ state={
 		victory_points = {
 			11544 10 
 		}
+		add_core_of = EUC
 		add_core_of = GER
 
 		2900.1.1 = {

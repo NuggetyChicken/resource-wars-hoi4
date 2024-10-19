@@ -70,7 +70,7 @@
  BUL_fascism_party_long:0 "The Union of Bulgarian National Legions"
 
  ROM_neutrality_party:0 "CP"
- ROM_neutrality_party_desc:0 "Centrist Party"
+ ROM_neutrality_party_long:0 "Centrist Party"
  ROM_communism_party:0 "RCP"
  ROM_communism_party_long:0 "Romanian Communist Party"
  ROM_democratic_party:1 "NPPR"

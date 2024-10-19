@@ -61,6 +61,11 @@ spriteTypes = {
 		name = "GFX_goal_BUL_diminishing_soviet_influence_focus"
 		textureFile = "gfx/interface/goals/BUL_diminishing_soviet_influence_focus.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_BUL_freebul_free_bulgaria_focus"
+		textureFile = "gfx/interface/goals/BUL_freebul_free_bulgaria_focus.dds"
+	}
+
 	###CANADA#####
 	
 	spriteType = {

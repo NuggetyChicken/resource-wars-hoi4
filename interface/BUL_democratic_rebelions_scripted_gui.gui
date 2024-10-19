@@ -1,0 +1,91 @@
+guiTypes = {
+	#Example Scripted GUI Window
+	containerWindowType = {
+		name = "BUL_democratic_rebelions_scripted_gui_window"
+		size = { width = 500 height = 460 }
+		Orientation = CENTER
+		position = { x = 650 y = 250 }
+					
+		background = {
+			name = "Background"
+			quadTextureSprite = "GFX_tiled_window2_1b_border"
+		}
+		iconType ={
+            name ="BUL_drsg_sofia_region_sl"
+            position = { x= 0 y = 0 }
+            Orientation = "UPPER_LEFT"
+        }
+
+		iconType ={
+            name ="BUL_drsg_plovdiv_region_sl"
+            position = { x= 0 y = 0 }
+            Orientation = "UPPER_LEFT"
+        }
+
+		iconType ={
+            name ="BUL_drsg_pleven_region_sl"
+            position = { x= 0 y = 0 }
+            Orientation = "UPPER_LEFT"
+        }
+
+		iconType ={
+            name ="BUL_drsg_varna_region_sl"
+            position = { x= 0 y = 0 }
+            Orientation = "UPPER_LEFT"
+        }
+
+		iconType ={
+            name ="BUL_drsg_burgas_region_sl"
+            position = { x= 0 y = 0 }
+            Orientation = "UPPER_LEFT"
+        }
+
+		### yo text? letters? i dont know how to read
+
+		instantTextBoxType = {
+			name = "BUL_drsg_sofia_region_sl_text"
+			position = { x = 0 y = 325 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "aldrich_24_outline"
+			text = "[BUL_drsg_sofia_region_sl_text_loc]"
+		}
+		instantTextBoxType = {
+			name = "BUL_drsg_plovdiv_region_sl_text"
+			position = { x = 0 y = 345 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "aldrich_24_outline"
+			text = "[BUL_drsg_plovdiv_region_sl_text_loc]"
+		}
+		instantTextBoxType = {
+			name = "BUL_drsg_pleven_region_sl_text"
+			position = { x = 0 y = 365 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "aldrich_24_outline"
+			text = "[BUL_drsg_pleven_region_sl_text_loc]"
+		}
+		instantTextBoxType = {
+			name = "BUL_drsg_varna_region_sl_text"
+			position = { x = 0 y = 385 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "aldrich_24_outline"
+			text = "[BUL_drsg_varna_region_sl_text_loc]"
+		}
+		instantTextBoxType = {
+			name = "BUL_drsg_burgas_region_sl_text"
+			position = { x = 0 y = 405 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "aldrich_24_outline"
+			text = "[BUL_drsg_burgas_region_sl_text_loc]"
+		}
+	}
+}

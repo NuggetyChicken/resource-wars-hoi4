@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PAL
+		owner = UAR
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -21,6 +21,7 @@ state={
 		victory_points = {
 			10840 3 
 		}
+		add_core_of = UAR
 		add_core_of = YEM
 
 	}
