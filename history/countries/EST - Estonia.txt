@@ -1,6 +1,6 @@
 ﻿capital = 1160
 
-oob = "EST_1936"
+oob = "EST_2056"
 if = {
 	limit = { has_dlc = "By Blood Alone" }
 		set_air_oob = "EST_1936_air_bba"
@@ -16,7 +16,9 @@ if = {
 set_research_slots = 3
 
 add_ideas = {
-	limited_conscription
+	all_adults_serve
+	war_economy
+	EST_defend_our_independence_idea
 }
 
 recruit_character = EST_kalju_kirsipuu

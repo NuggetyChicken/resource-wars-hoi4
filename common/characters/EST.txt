@@ -3,7 +3,7 @@ characters={
 		name="Kalju Kirsipuu"
 		portraits={
 			civilian={
-				large="gfx/leaders/EST/EST_kalju_kirsipuu.dds"
+				large="gfx/leaders/EST/EST_kalju_kirsipuu.png"
 			}
 		}
 		country_leader={

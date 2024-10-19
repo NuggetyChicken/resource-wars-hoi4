@@ -45,6 +45,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/ROM_iron_guard_idea.dds"
 	}
 
+	### ESTONIA ###
+	spriteType = {
+		name = "GFX_idea_EST_defend_our_independence_idea"
+		texturefile = "gfx/interface/ideas/EST_defend_our_independence_idea.dds"
+	}
+
 	###CANADA###
 	spriteType = {
 		name = "GFX_idea_CAN_albertan_oil"
