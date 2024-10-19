@@ -65,6 +65,27 @@ spriteTypes = {
 		name = "GFX_goal_BUL_freebul_free_bulgaria_focus"
 		textureFile = "gfx/interface/goals/BUL_freebul_free_bulgaria_focus.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_BUL_true_terror_just_ahead_focus"
+		textureFile = "gfx/interface/goals/BUL_true_terror_just_ahead_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_keeping_eye_on_the_people_focus"
+		textureFile = "gfx/interface/goals/BUL_keeping_eye_on_the_people_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_true_communism_focus"
+		textureFile = "gfx/interface/goals/BUL_true_communism_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_dreams_of_bulgarian_communism_focus"
+		textureFile = "gfx/interface/goals/BUL_dreams_of_bulgarian_communism_focus.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_BUL_suppress_different_thinking_focus"
+		textureFile = "gfx/interface/goals/BUL_suppress_different_thinking_focus.dds"
+	}
+	
 
 	###CANADA#####
 	

@@ -783,7 +783,7 @@ focus_tree = {
 	}
 	focus = {
 		id = BUL_traitors_everywhere_focus
-		icon = GFX_goal_BUL_traitors_everywhere_focus
+		icon = GFX_goal_BUL_keeping_eye_on_the_people_focus
 		x = 1
 		y = 2
 		prerequisite = {
@@ -854,6 +854,46 @@ focus_tree = {
 			add_political_power = 150
 			add_stability = 0.15
 			BUL_add_1_level_of_control_to_every_state = yes
+		}
+	}
+	focus = {
+		id = BUL_true_terror_just_ahead_focus
+		icon = GFX_goal_BUL_true_terror_just_ahead_focus
+		x = 0
+		y = 6
+		prerequisite = {
+			focus = BUL_end_of_crisis_focus
+		}
+		prerequisite = {
+			focus = BUL_great_economy_focus
+		}
+		prerequisite = {
+			focus = BUL_true_communism_focus
+		}
+		relative_position_id = BUL_the_great_rule_of_bulgaria_focus
+	
+		cost = 2
+	
+		ai_will_do = {
+			factor = 1
+		}
+	
+		available = {
+
+		}
+	
+		bypass = {
+	
+		}
+	
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+	
+		
+	
+		completion_reward = {
+			custom_effect_tooltip = BUL_true_terror_just_ahead_focus_tt
 		}
 	}
 }

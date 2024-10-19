@@ -4,7 +4,7 @@ on_actions = {
 			ROM = {
 				country_event = { 
 					id = romania_revolt.1
-					days = 399
+					days = 595
 				}
 			}
 		}
