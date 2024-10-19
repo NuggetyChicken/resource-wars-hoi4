@@ -50,10 +50,18 @@
     nf_canada_2_desc:0 "Men and women of Canada now have an initiative to help each other to build a better tomorrow for all involved, and all they must do is pick up trash, report crimes and keep the nation clean, of everything. Of course, this requires constant government investment, and a constant oversight. Provided the Green Party retains some level of influence in the government we shall continue this forthright."
     nf_canada_2_a:0 "Let's get this ready."
     
-    nf_canada_3_title:0 ""
-    nf_canada_3_desc:0 ""
-    nf_canada_3_a:0 ""
-    nf_canada_3_b:0 ""
+    nf_canada_3_title:0 "A Legal Coup"
+    nf_canada_3_desc:0 "The ground around Ottawa shook, the entirety of Canada thrown on its head in a matter of seconds as the status quo for the past century was finally moved with the combined pushes of three parties. Walter Trudeau, the incompetent son of Xavier, great Grandson of Pierre, had his power threatened. It was revealed to the public that the three largest opposition parties, those being the Conservative, People's and New Democratic, each of whom had finally grown resentful enough of the Trudeaus to work together and kick them the hell out.\n\nTheir means to kick them out was rather boring, a simple bureaucratic feature which the Trudeaus had been attempting to remove for years at this point: the Vote of No-Confidence. They'd motioned it, and the vote came and went, however this coalition was very secret. Very secret. So secret that some MPs didn't even know about it, and also didn't support it. There was a visible debate on practically every MPs face, everyone thinking intricately on their next moves. After what seemed like forever within the House of Commons the motion was voted upon, and the fate of Canada was decided."
+    nf_canada_3_a:0 "Trudeau is ousted!"
+    nf_canada_3_b:0 "Trudeau barely stays in charge."
+    
+    canadian_news_1_title:0 "The Trudeaus Falls From Grace!"
+    canadian_news_1_desc:0 "In a surprise Vote of No-Confidence for even the MPs involved, the House of Commons of Canada has voted out the Prime Minister, before even the height of  campaign season of the oncoming Election. The hodgepodge coalition of opposition parties have coalesced behind the compromise candidate in Hunter Guy, the three parties reportedly already bickering amongst themselves for what to do."
+    canadian_news_1_a:0 "Thus always to morons."
+
+    canadian_news_2_title:0 "Trudeau Power Shaken!"
+    canadian_news_2_desc:0 "A vote of No-Confidence shook Canada as the Federal Election was about to reach its peak, and in a rather surprising outcome, the coalition formed to throw out the Trudeaus made up of the three largest opposition parties has collapsed, leaving Trudeau's power uncontested, but still shaken, with the vote barely failing."
+    canadian_news_2_a:0 "Nothing ever happens."
 
     #TOOLTIPS#
     CAN_continue_the_dynasty_tt:0 "Gain Base Stability: §G+5.00%§!.\nPolitical Power: §G+50§!."
@@ -63,6 +71,14 @@
     CAN_trudeau_stability_tt:0 "Gets event '§YCanada's Favorite Son§!'.\n\n§gWho knows how fate will play out?§!"
     CAN_bread_circuses_guns_tt:0 "Change in popularity of Democracy: §G2.50%§!"
     nf_canada_2_tt:0 "We will unlock decisions to help §GGreenify§! Canada."
+    nf_canada_3_a_tt:0 "§gCompromise candidate Keith Anderson will be elected, with ex-general Kimberly McGill replacing Trudeau as Liberal Candidate in the new opposition government.§!\n\n§YWe will load a new tree for compromise candidate Keith Anderson§!"
+    nf_canada_3_b_tt:0 "§gTrudeau will get a new look in this trying time.§!\n\n§YWe will load a new tree for securing the Trudeau's position again.§!"
+    
+    #COUNTRY FLAGS#
+    canada_trudeau_phakked:0 "§RWe've somehow lost power?!§!"
+    canada_trudeau_semi_phakked:0 "§gWe're barely holding on!?§!"
     
     #CHARACTERS# 
-    CAN_trudeau_name:0 "Walter L. Trudeau"
+    CAN_canadas_spoiled_brat:0 "Canada's Spoiled Brat"
+    CAN_canadas_spoiled_brat2:0 "Canada's Spoiled Brat"
+    CAN_reluctant_compromiser:0 "Reluctant Compromiser"

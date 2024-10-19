@@ -42,10 +42,14 @@ if = {
 
 set_research_slots = 3
 set_country_flag = monroe_doctrine
+set_country_flag = CAN_liberal_domination
 set_stability = 0.6
 set_war_support = 0.3
 
 recruit_character = CAN_trudeau
+recruit_character = CAN_trudeau2
+recruit_character = CAN_mcgill
+recruit_character = CAN_anderson
 
 # Starting tech
 set_technology = {
@@ -130,7 +134,7 @@ add_timed_idea = {
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "2052.11.12"
+	last_election = "2051.11.12"
 	election_frequency = 60
 	elections_allowed = yes
 }
