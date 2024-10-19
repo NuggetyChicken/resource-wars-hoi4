@@ -27,7 +27,9 @@
 			DDR = {
 				country_event = { id = DDR.1 days = 1 }
 			}
-			add_stability = 0.15
+			add_war_support = 0.1
+			add_stability = 0.03
+			add_political_power = 100
 		}
 	}
 
@@ -50,7 +52,11 @@
 			DDR = {
 				country_event = { id = DDR.2 days = 1 }
 			}
-			add_stability = -0.04
+			add_political_power = 150
+			add_popularity = {
+				ideology = communism
+				popularity = 0.03
+			}
 		}
 	}
 
@@ -96,7 +102,8 @@
 			DDR = {
 				country_event = { id = DDR.4 days = 1 }
 			}
-			add_stability = 0.04
+			add_stability = 0.05
+			add_political_power = 50
 		}
 	}
 
@@ -120,7 +127,7 @@
 			DDR = {
 				country_event = { id = DDR.5 days = 1 }
 			}
-			add_political_power = 50
+			add_political_power = -50
 		}
 	}
 
@@ -140,12 +147,16 @@
 			DDR = {
 				country_event = { id = DDR.6 days = 1 }
 			}
+			add_popularity = {
+				ideology = neutrality
+				popularity = 0.1
+			}
 		}
 	}
 
 	focus = {
 		id = DDR_gorings_ideals
-		icon = GFX_DDR_the_martians
+		icon = GFX_DDR_ideals_of_goring
 		cost = 2
 		available_if_capitulated = no
 		ai_will_do = {
@@ -161,6 +172,8 @@
 			DDR = {
 				country_event = { id = DDR.7 days = 1 }
 			}
+			add_stability = 0.1
+			add_political_power = 150
 		}
 	}
 
@@ -200,6 +213,11 @@
 			DDR = {
 				country_event = { id = DDR.9 days = 1 }
 			}
+		add_popularity = {
+				ideology = democratic
+				popularity = 0.1
+		}
+		add_stability = 0.5
 		}
 	}
 
@@ -222,6 +240,9 @@
 			DDR = {
 				country_event = { id = DDR.10 days = 1 }
 			}
+		add_stability = -0.5
+		add_political_power = 150
+		add_war_support = 0.1
 		}
 	}
 
@@ -245,6 +266,7 @@
 			load_focus_tree = { tree = DDR_PSR_starting}
 				country_event = { id = DDR.11 days = 1 }
 			}
+			add_ideas = DDR_foundationofgreatness
 		}
 	}
 
@@ -267,6 +289,12 @@
 		completion_reward = {
 			DDR = {
 				country_event = { id = DDR.12 days = 1 }
+			}
+			add_political_power = 100
+			add_stability = 0.2
+			add_popularity = {
+				ideology = democratic
+				popularity = 0.02
 			}
 		}
 	}
@@ -362,6 +390,8 @@
 			DDR = {
 				country_event = { id = DDR.16 days = 1 }
 			}
+			add_political_power = -50
+			add_stability = -0.1
 		}
 	}
 	
@@ -385,6 +415,7 @@
 			DDR = {
 				country_event = { id = DDR.17 days = 1 }
 			}
+			add_ideas = DDR_protests1
 		}
 	}
 	
