@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = EUC
 		victory_points = {
 			9787 1
 		}
@@ -22,6 +22,7 @@ state={
 			infrastructure = 2
 			industrial_complex = 2
 		}
+		add_core_of = EUC
 		add_core_of = POR
 	}
 

@@ -957,3 +957,11 @@ SMR = {
 	color = rgb { 56 8 190 }
 	color_ui = rgb { 56 8 190 }
 }
+UAR = {
+	color = rgb { 211 141 42 }
+	color_ui = rgb { 211 141 42 }
+}
+EUC = {
+	color = rgb { 46 74 198 }
+	color_ui = rgb { 46 74 198 }
+}

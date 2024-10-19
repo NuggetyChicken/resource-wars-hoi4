@@ -11,7 +11,7 @@ state = {
 	}
 
 	history = {
-		owner = FRA
+		owner = EUC
 		victory_points = {
 			819 20 
 		}
@@ -25,6 +25,7 @@ state = {
 				naval_base = 6
 			}
 		}
+		add_core_of = EUC
 		add_core_of = ITA
 		add_core_of = TTS
 		2900.1.1 = {

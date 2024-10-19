@@ -4,7 +4,7 @@ state={
 	name="STATE_883"
 
 	history={
-		owner = PAL
+		owner = UAR
 		add_core_of = SUD
 		victory_points = {
 			12725 1 

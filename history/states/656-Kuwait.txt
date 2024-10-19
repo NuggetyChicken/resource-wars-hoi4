@@ -6,8 +6,9 @@ state={
 	state_category = rural
 	
 	history={
+		owner = UAR
+		add_core_of = UAR
 		add_core_of = KUW
-		owner = PAL
 		victory_points = {
 			8085 1 
 		}

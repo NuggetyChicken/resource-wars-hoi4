@@ -3,7 +3,7 @@ state={
 	name="STATE_988"
 
 	history={
-		owner = FRA
+		owner = EUC
 		victory_points = {
 			575 5 
 		}
@@ -19,6 +19,7 @@ state={
 			}
 
 		}
+		add_core_of = EUC
 		add_core_of = FRA
 		2900.1.1 = {
 			buildings = {

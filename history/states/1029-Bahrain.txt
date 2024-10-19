@@ -3,7 +3,8 @@ state={
 	name="STATE_1029"
 
 	history={
-		owner = PAL
+		owner = UAR
+		add_core_of = UAR
 		add_core_of = BHR
 		victory_points = {
 			13313 2 
