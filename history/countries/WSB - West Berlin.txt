@@ -115,6 +115,7 @@ set_popularities = {
 
 
 add_ideas = {
+WSB_hundred_year_occupation
 }
 
 create_country_leader = {
