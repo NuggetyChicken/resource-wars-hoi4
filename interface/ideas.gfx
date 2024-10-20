@@ -91,5 +91,10 @@ spriteTypes = {
 		name = "GFX_idea_CAN_recycling_bin"
 		texturefile = "gfx/interface/ideas/CAN_recycling_bin.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_idea_AST_climate_disaster"
+		texturefile = "gfx/interface/ideas/AST_climate_disaster.dds"
+	}
 
 }

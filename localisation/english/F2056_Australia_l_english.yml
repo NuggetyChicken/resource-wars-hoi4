@@ -1,0 +1,11 @@
+﻿l_english:
+#FOCUS
+
+#EVENTS
+    australia_news.2.t:0 "The 7 Years Fire ends"
+    australia_news.2.desc:0 "For the past seven years in Australia, there has been bushfires occuring almost every month, with the already collasped nation being at a standstill between the newly independent factions of Australia. With the bushfires over, many are asking if peace between the factions will continue, or if there will be a war to fully reunify Australia once again."
+    australia_news.2.a:0 "What about the animals?"
+
+#National Spirits
+    AST_climate_disaster:0 "Complete Climate Disaster"
+    AST_climate_disaster_desc:0 "Around the late 2030s, early 2040s, the climate crisis begun in Australia due to the complete devastation caused by nations sending companies to mine out whatever resources Australia had... These companies completely disregarded the social order of this nation, and was even supported by the government at the time for the money it racked in.. Now a unified Australia is just a dream."
