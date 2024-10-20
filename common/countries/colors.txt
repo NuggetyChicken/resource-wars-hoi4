@@ -24,6 +24,9 @@ LUX = {
 	color = rgb { 65 175 179 }
 	color_ui = rgb { 85 228 233 }
 }
+NEU = { color 	 = rgb { 193 171 8  }
+		color_ui = rgb { 251 222 10 }
+	  }
 BEL = { color 	 = rgb { 193 171 8  }
 		color_ui = rgb { 251 222 10 }
 	  }
@@ -113,9 +116,21 @@ HUN = {
 	color = rgb { 249 126 98 }
 	color_ui = rgb { 255 164 127 }
 }
+SWR = {
+	color = rgb { 249 126 98 }
+	color_ui = rgb { 255 164 127 }
+}
+QEN = {
+	color = rgb { 64 160 167 }
+	color_ui = rgb { 83 208 217 }
+}
 AFG = {
 	color = rgb { 64 160 167 }
 	color_ui = rgb { 83 208 217 }
+}
+WST = {
+	color = rgb { 145 157 236 }
+	color_ui = rgb { 189 204 255 }
 }
 ARG = {
 	color = rgb { 145 157 236 }
@@ -152,6 +167,10 @@ CHL = {
 COL = {
 	color = rgb { 222 187 91 }
 	color_ui = rgb { 255 243 118 }
+}
+CTA = {
+	color = rgb { 152 128 43 }
+	color_ui = rgb { 152 128 43 }
 }
 COS = {
 	color = rgb { 152 128 43 }
@@ -254,6 +273,10 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 87 160 255 }
+}
+ASU = {
 	color = rgb { 20 133 237 }
 	color_ui = rgb { 87 160 255 }
 }
@@ -930,6 +953,10 @@ IAS = {
 	color_ui = rgb { 0 51 17 }
 }
 YUC = {
+	color = rgb { 255 26 26 }
+	color_ui = rgb { 102 0 0 }
+}
+NAS = {
 	color = rgb { 255 26 26 }
 	color_ui = rgb { 102 0 0 }
 }

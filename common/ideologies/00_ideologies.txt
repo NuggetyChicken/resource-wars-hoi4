@@ -245,6 +245,10 @@ ideologies = {
 			Oligarchism = {
 				color = { 163 153 2 }
 			}
+			
+			anarchism = {
+				color = { 000 000 0 }
+			}
 		}
 
 		dynamic_faction_names = {

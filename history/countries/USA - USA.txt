@@ -211,14 +211,6 @@ set_autonomy = {
 	autonomous_state =  autonomy_puppet
 }
 set_autonomy = {
-	target = AST
-	autonomous_state =  autonomy_puppet
-}
-set_autonomy = {
-	target = NZL
-	autonomous_state =  autonomy_puppet
-}
-set_autonomy = {
 	target = MAL
 	autonomous_state =  autonomy_puppet
 }
