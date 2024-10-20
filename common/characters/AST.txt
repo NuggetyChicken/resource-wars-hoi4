@@ -3,7 +3,7 @@ characters={
 		name="Bennett Daniel"
 		portraits={
 			civilian={
-				large=GFX_portrait_AST_john_curtin
+				large=gfx/leaders/AST/Portrait_Australia_Bennett_Daniel.png
 			}
 		}
 		country_leader={
