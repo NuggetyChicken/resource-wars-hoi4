@@ -134,11 +134,13 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
 set_popularities = {
 	democratic = 73
 	communism = 17
 	neutrality = 10
 }
+
 create_country_leader = {
 	name = "Lottie Fevre"
 	desc = ""
@@ -148,3 +150,13 @@ create_country_leader = {
 		#
 	}
 }
+
+add_ideas = {
+	euc_energy_crisis_1
+	euc_rampant_unrest_1
+	euc_economic_recession_1
+	euc_remembering_nordic_uprising_1
+	euc_breaking_union_1
+}
+
+set_country_flag = EUC_nation_in_crisis
