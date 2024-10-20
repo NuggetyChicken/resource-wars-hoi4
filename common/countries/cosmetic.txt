@@ -1242,3 +1242,8 @@ LGF_UNIFIED = {
 	color = rgb { 205 69 69 }
 	color_ui = rgb { 205 69 69 }
 }
+
+ROM_drop_soviet_tag_ct = {
+	color = rgb { 119 86 33 }
+	color_ui = rgb { 119 86 33 }
+}
