@@ -82,29 +82,52 @@ country_event = {
 
 	immediate = {
 		hidden_effect = {
-			set_politics = {
-				ruling_party = democratic
+			ROM = {
+				set_politics = {
+					ruling_party = democratic
+				}
+				add_popularity = {
+					ideology = communism
+					popularity = -1
+				}
+				set_global_flag = romanian_democratic_now_gf
+				leave_faction = yes
+				SOV = { end_puppet = ROM }
+				news_event = {
+					id = romania_news.1
+					days = 1
+					hours = 6
+					random_hours = 21
+				}
 			}
-			add_popularity = {
-				ideology = communism
-				popularity = -1
-			}
-			set_global_flag = romanian_democratic_now_gf
-			SOV = { end_puppet = ROM }
-			leave_faction = yes
-			news_event = {
-				id = romania_news.1
-				days = 1
-				hours = 6
-				random_hours = 21
-			}
-			set_cosmetic_tag = ROM_drop_soviet_tag_ct
 		}
 		
 	}
 
 	option = {
 		name = romania_revolt.3.a
+	}
+}
+# Event for USSR where they think about to fuck Romania
+country_event = {
+	id = romania_revolt.4
+	title = romania_revolt.4.t
+	desc = romania_revolt.4.d
+	picture = x
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			activate_mission = SOV_democratic_romania_invasion_mission
+			BUL	= {
+				activate_mission = BUL_democratic_romania_invasion_mission
+			}
+		}
+	}
+
+	option = {
+		name = romania_revolt.4.a
 	}
 }
 # Romania democratic now
@@ -117,6 +140,14 @@ news_event = {
 	is_triggered_only = yes
 
 	immediate = {
+		SOV = {
+			country_event = { 
+				id = romania_revolt.4
+				days = 4
+				hours = 7
+				random_hours = 21
+			}
+		}
 	}
 
 	option = {
@@ -137,5 +168,21 @@ news_event = {
 
 	option = {
 		name = romania_news.2.a
+	}
+}
+# Romanian Republic capitulated
+news_event = {
+	id = romania_news.3
+	title = romania_news.3.t
+	desc = romania_news.3.d
+	picture = x
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	immediate = {
+	}
+
+	option = {
+		name = romania_news.3.a
 	}
 }

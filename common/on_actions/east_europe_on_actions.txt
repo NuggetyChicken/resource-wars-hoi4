@@ -4,7 +4,7 @@ on_actions = {
 			ROM = {
 				country_event = { 
 					id = romania_revolt.1
-					days = 595
+					days = 558
 				}
 			}
 		}
@@ -50,6 +50,55 @@ on_actions = {
 					}
 					white_peace = EST
 				}	
+			}
+		}
+	}
+	on_capitulation_immediate = {
+		effect = { 
+			if = {
+				limit = {
+					ROOT = {
+						original_tag = ROM
+						has_war_with = SOV
+					}
+					FROM = { 
+						OR = { 
+							original_tag = SOV
+							original_tag = BUL
+						}
+					}
+				}
+				HUN = {
+					transfer_state = 1019
+					transfer_state = 76
+				}
+				BUL = {
+					transfer_state = 83
+					transfer_state = 84
+					transfer_state = 82
+					transfer_state = 81
+					transfer_state = 46
+					transfer_state = 1017
+					transfer_state = 79
+					transfer_state = 1018
+
+					set_cosmetic_tag = BUL_balkan_ssr_ct
+				}
+				every_state = {
+					limit = {
+						is_core_of = ROM
+					}
+					add_core_of = BUL
+					remove_core_of = ROM
+				}
+				every_country = {
+					limit = {
+						has_war_with = ROM
+						is_in_faction_with = SOV
+					}
+					white_peace = ROM
+				}
+				news_event = romania_news.3	
 			}
 		}
 	}

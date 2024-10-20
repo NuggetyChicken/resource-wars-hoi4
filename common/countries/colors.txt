@@ -65,8 +65,8 @@ ITA = {
 	color_ui = rgb { 87 165 82 }
 }
 ROM = {
-	color = rgb { 215 196 72 }
-	color_ui = rgb { 255 255 120 }
+	color = rgb { 119 86 33 }
+	color_ui = rgb { 119 86 33 }
 }
 YUG = {
 	color = rgb { 72 73 126 }
