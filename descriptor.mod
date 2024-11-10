@@ -12,4 +12,4 @@ tags={
 	"Graphics"
 }
 name="pre-war sex"
-supported_version="1.14.9"
+supported_version="1.14.10"
