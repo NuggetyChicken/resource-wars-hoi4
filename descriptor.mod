@@ -5,6 +5,7 @@ replace_path="gfx/loadingscreens"
 replace_path="events"
 replace_path="common/ideas"
 replace_path="common/decisions"
+replace_path="history/states"
 tags={
 	"Alternative History"
 	"Gameplay"
