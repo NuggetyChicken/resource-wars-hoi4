@@ -3582,6 +3582,13 @@ spriteTypes = {
 		name = "GFX_report_event_PRC_starting"
 		texturefile = "gfx/event_pictures/report_event_PRC_first_flavor.dds"
 	}
+	#############
+	### OTHER ###
+	#############
+	spriteType = {
+		name = "GFX_news_event_australian_bushfire1"
+		texturefile = "gfx/event_pictures/GFX_news_event_australian_bushfire1.dds"
+	}
 }
 
 

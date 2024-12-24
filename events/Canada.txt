@@ -131,7 +131,7 @@ country_event = { # Real Event
 	
 }
 
-country_event = { # Trudeau Gets Phakked
+news_event = { # Trudeau Gets Phakked
 	id = canadian_news.1
 	title = canadian_news_1_title
 	desc = canadian_news_1_desc
@@ -145,7 +145,7 @@ country_event = { # Trudeau Gets Phakked
 	}
 }
 
-country_event = { # Trudeau Survives
+news_event = { # Trudeau Survives
 	id = canadian_news.2
 	title = canadian_news_2_title
 	desc = canadian_news_2_desc
