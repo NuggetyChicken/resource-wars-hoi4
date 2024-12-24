@@ -249,6 +249,10 @@ ideologies = {
 			anarchism = {
 				color = { 000 000 0 }
 			}
+
+			Neo_Monarchism = {
+				color = { 184 61 186 }
+			}
 		}
 
 		dynamic_faction_names = {

@@ -1989,3 +1989,7 @@ SWE_greater_nordic_reich_ADJ: "Swedish"
  KOR_PRC_autonomy_colony_DEF:0 "Korean Autonomous Zone"
  KOR_PRC_autonomy_puppet_DEF:1 "Korean Autonomous Zone"
  KOR_PRC_autonomy_integrated_puppet_DEF:0 "Korean Autonomous Zone"
+
+ BUL_balkan_ssr_ct:0 "Balkan People's Republic"
+ BUL_balkan_ssr_ct_DEF:0 "the Balkan People's Republic"
+ BUL_balkan_ssr_ct_ADJ:0 "Balkan"

@@ -486,10 +486,11 @@ bookmarks = {
 			ideas = {
 				BUL_BKP_idea
 				BUL_agricultural_crisis_1_idea
+				BUL_mass_purges_idea
 			}
 			focuses = {
-				BUL_the_great_rule_of_bulgaria_focus
 				BUL_true_terror_just_ahead_focus
+				BUL_monarchy_again_focus
 				BUL_freebul_free_bulgaria_focus
 			}
 		}

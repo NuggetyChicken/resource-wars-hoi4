@@ -85,6 +85,10 @@ spriteTypes = {
 		name = "GFX_goal_BUL_suppress_different_thinking_focus"
 		textureFile = "gfx/interface/goals/BUL_suppress_different_thinking_focus.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_BUL_monarchy_again_focus"
+		textureFile = "gfx/interface/goals/BUL_monarchy_again_focus.dds"
+	}
 	
 
 	###CANADA#####

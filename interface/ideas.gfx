@@ -34,6 +34,10 @@ spriteTypes = {
 		name = "GFX_idea_BUL_five_year_plan_idea_dm"
 		texturefile = "gfx/interface/ideas/BUL_five_year_plan_idea_dm.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_BUL_mass_purges_idea"
+		texturefile = "gfx/interface/ideas/BUL_mass_purges_idea.dds"	
+	}
 
 	### ROMANIA ###
 	spriteType = {

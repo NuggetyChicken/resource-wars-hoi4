@@ -86,6 +86,8 @@ BUL_agricultural_crisis_2_idea:0 "Crisis in agriculture"
 BUL_agricultural_crisis_2_idea_desc:0 "Only 2 years ago the Bulgarian economy started to stagnate thanks to new radical reforms that shook the fragile body of PRB agriculture."
 BUL_land_reform_idea:0 "Land reform"
 BUL_land_reform_idea_desc:0 "Unjust and excessive governmental control over land necessitates the implementation of land redistribution policies aimed at achieving equitable agricultural land allocation."
+BUL_mass_purges_idea:0 "Mass Purges"
+BUL_mass_purges_idea_desc:0 "Since the beginning of the new secretary's rule, the number and scope of repression against the population has gradually increased. At the beginning there were only a few, but nowadays hundreds of people are subjected to sweepings. No one even knows why, the traitors say. Although the truth is that they choose anyone. And the unlucky victim does not die immediately, it goes through long stages of interrogation and torture, if the victim of course will be suspected of atni-government views. But no one knows where, or how it all happens. Maybe it's a lie, but it's probably a rumor started by the government. For reasons unknown."
 
 ### EVENTS ###
 bulgaria.1.t:0 "People's Republic of Bulgaria"
