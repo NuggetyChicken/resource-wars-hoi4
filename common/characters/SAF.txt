@@ -73,7 +73,7 @@ characters={
 	}
 
 	SAF_jan_smuts = {
-		name="Jay Iffer-Harley"
+		name="Jay Smuts"
 		portraits={
 			civilian={
 				large=gfx/leaders/SAF/Portrait_SouthAfrica_jay_iffer_harley.png
