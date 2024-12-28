@@ -12,6 +12,6 @@ tags={
 	"Map"
 	"Graphics"
 }
-name="pre-war sex"
+name="Fallout: War Never Changes (W.I.P)"
 supported_version="1.15.3"
 remote_file_id="3343104133"
